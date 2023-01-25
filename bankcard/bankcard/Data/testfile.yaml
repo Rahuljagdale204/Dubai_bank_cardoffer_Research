@@ -1,0 +1,24 @@
+# Dubai Islamic Bank:
+#   baseUrl: https://www.dib.ae/personal/cards?cardType=All-Cards&income=Any&cardBenefit=All-Benefits&visible=6
+#   nexturl: //div[@class='card-title-info']/a/@href
+#   xpath:
+#     image:  //img[@class='active spotlight-media img-circle']/@src
+#     typeOfCard:
+#     nameOfCard: //h1[@class='col-side-heading-1']/text/text()
+#     info: //div[@class='spotlight-contents']
+#     benifits:
+#       title: //div[@class='col-sm-4 col']/h3/text()
+#       desc: //div[@class='accordion-content content-parent']
+
+Commercial Bank of Dubai:
+  baseUrl:  https://www.cbd.ae/personal/bank/cards
+  nexturl:  //a[@class='button orange wide boxListCta']/@href
+  xpath:
+    container:
+    image: //div[@class='banner']/img/@src
+    typeOfCard: 
+    nameOfCard: //div[@class='box']/h1/text()
+    info: //div[@class="box"]/p/text()
+    benefits: 
+      title:  //div[@class='sfContentBlock']/div/ul/span/strong/text()
+      desc: //div[@class='sfContentBlock']/div/ul/text()

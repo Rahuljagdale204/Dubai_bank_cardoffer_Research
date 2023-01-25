@@ -1,0 +1,161 @@
+
+Commercial Bank of Dubai: #done
+  baseUrl:  https://www.cbd.ae/personal/discover/offers-and-rewards/cbd-rewards
+  category:
+  shopname: //div[@class='SlideTextInner']/h4/text()
+  offertitle: //div[@class='SlideTextInner']/div/text()
+  validity:
+  image:  //div[@class='sfimageWrp']/img/@src
+  offerlink:
+  xpaths:
+    offerdetails:
+    tnc:
+
+Dubai Islamic Bank:   #done
+  baseUrl: https://www.dib.ae/offers/card-offers?sub-category=all&search=all&category=all&city=all&offer-start=any&offer-end=any&count=19
+  category:  //div[@class='card-type-info']/text()
+  shopname: //div[@class='card-title-info']/a/text()
+  offertitle:  //div[@class='card-desc-info']/text()
+  validity: //div[@class='offer-expire']/text()
+  image:  //div[@class='card-img-inner']/a/img/@src
+  offerlink:  //div[@class='card-title-info']/a/@href
+  xpaths:
+    offerdetails: //div[@class='offer-detail']/text()
+    tnc:  //div[@class='offer-detail']/ul/li/text()
+    
+
+Bank Al Falah Limited:    #done
+  baseUrl: https://www.bankalfalah.com/personal-banking/cards/privileges-discounts/discounts
+  category: //div[@class='childData backgroundImageDiscounts']/div[1]
+  shopname:   //div[@class='childData backgroundImageDiscounts']/div[3]/h3[1]/text()
+  location:   //div[@class='childData backgroundImageDiscounts']/div[2]/p/text()
+  offertitle:
+  validity: 
+  image:  //div[@class='childData backgroundImageDiscounts']/div[1]/div[1]/@data-realimage
+  offerlink:  
+  xpaths:
+    offerdetails: 
+    tnc: 
+    validity: 
+    image:  
+
+Emirates Islamic:   #done
+  baseUrl:  https://www.emiratesislamic.ae/eng/promotions/
+  category: 
+  shopname: //h2[@class='orangeBottom_h2']/text()
+  offertitle: //div[@class='caption']/p/text()
+  image:  //div[@class='thumbnail mLR10']/img/@src
+  offerlink:  //a[@class='btn btn-primary a_Promo_learnmore']/@href
+  xpaths:
+    offerdetails: 
+    tnc:
+    validity:
+
+
+Al Maryah Community Bank: #done
+  baseUrl:  https://www.mbank.ae/eid-offers/
+  category:
+  shopname: //h5[@class='separator_off']/text()
+  offertitle: //div[@class='wpb_wrapper']/ul
+  validity:
+  image:
+  offerlink:
+  xpaths:
+    offerdetails:
+    tnc:
+
+
+
+Abu Dhabi Islamic Bank:   #done
+  baseUrl:  https://www.adib.ae/en/pages/personal_offers_and_promotions.aspx
+  category: //span[@class='badge badge-pill badge-secondary-light text-primary']/text()
+  shopname: //h3[@class='text-dark mb-3']/text()
+  offertitle: //p[@class='fs-16']/text()
+  validity: //div[@class='media-meta text-primary font-weight-normal mb-3']
+  image:  //div[@class='media-image mr-4 mr-lg-5']/img/@src
+  offerlink:  //a[@class='btn btn-link px-0 btn-icon']/@href
+  xpaths:
+    offerdetails: 
+    tnc:  //div[@class='ExternalClassA70209FDFFBF45D98BEFE3A38188D525']/ul/li/text()
+
+National Bank of Fujairah:  #done
+  baseUrl:  https://nbf.ae/en/personal/promotions/offers-promotions
+  category: 
+  shopname: //div[@class='news-section-inner']/article/a/strong/text()
+  validity: //div[@class='news-section-inner']/article/a/em/text()
+  image:  //img[@class='responsive']/@src
+  offerlink:  //div[@class='news-section-inner']/article/a/@href
+  xpaths:
+    offertitle: //div[@id='content-section-wrapper']/h3/strong/text()
+    offerdetails: //div[@id='content-section-wrapper']/p/text()
+    tnc:  //div[@id='content-section-wrapper']/ul/li/text()
+    applylink:  //div[@id='content-section-wrapper']/p/a/@href
+
+
+Commercial Bank International:    #done
+  baseUrl: https://www.combank.lk/rewards-promotions
+  category: //p[@class="category"]/text()
+  shopname: //div[@class="reward-content"]/h3/text()
+  offertitle: 
+  validity: //p[@class="valid-date"]/text()
+  image:  //div[@class='rewards-row']/a/div//@style
+  offerlink:  //a[@class="reward box-shadow active"]/@href
+  xpaths:
+    offerdetails: //ol/li/text()
+    tnc:  
+
+National Bank of Kuwait:    #done
+  baseUrl:  https://www.nbk.com/kuwait/nbk-rewards.html
+  category: 
+  shopname:  //div[@class="fav-content-area"]/h3/a/text()
+  offertitle: //div[@class="fav-content-area"]/p/text()
+  validity:
+  image: //div[@class="brand-name"]/img/@src
+  xpaths:
+    offerdetails:
+    tnc:  #//section[@class="main-links"]//ul/li/text()
+    validity: //div[@class="valid-date"]/span/text()
+
+Standard Chartered Bank:
+  baseUrl:  https://www.sc.com/in/credit-cards/offers/
+  category: 
+  shopName: //h3/text()
+  offertitle: //p[@class="description"]/text()
+  validity:
+  image:  //img[@class="img-bg"]/@src
+  xpaths:
+    offerdetails: //p[@class="message"]/text()
+    tnc: //span[@class="question-text"]/text()
+    validity: 
+
+Arab Bank:
+  baseUrl:  https://www.arabbank.jo/mainmenu/home/Consumer-Banking/dubai-shopping-festival-offers
+  category:
+  shopname: //li/strong/text()
+  offertitle:
+  validity:
+  image:  //img/@src
+  offerlink:
+  xpaths:
+    offerdetails:
+    tnc:
+
+
+National Bank of Umm Al-Quwain:
+  baseUrl:   https://nbq.ae/personal/offers-and-rewards
+  category:
+  shopname: //*[@id="Content_C006_Col00"]/div/h2
+  offertitle: //*[@id="Content_C006_Col00"]/div/p/text()
+  validity:
+  image:  
+  offerlink:
+  xpaths:
+    offerdetails:
+    tnc:
+
+United Arab Bank:
+  baseUrl: https://www.uab.ae/personal/cards/debit-cards/offers-and-promotions
+  shopname: //div[@class="title"]/text()
+  offertitle: //div[@class="text text--big text--color-gray"]/p/text()
+  image: //div[@class="media__image"]/@style
+  xpaths:

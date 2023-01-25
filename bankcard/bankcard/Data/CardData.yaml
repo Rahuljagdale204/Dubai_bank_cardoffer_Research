@@ -1,0 +1,512 @@
+
+Commercial Bank of Dubai:
+  baseUrl:  https://www.cbd.ae/personal/bank/cards
+  nexturl:  //a[@class='button orange wide boxListCta']/@href
+
+  xpath:
+    container:
+    image: //div[@class='banner']/img/@src
+    typeOfCard: 
+    nameOfCard: //div[@class='box']/h1/text()
+    info: //div[@class="box"]/p/text()
+    benefits: 
+      title:  //div[@class='sfContentBlock']/div/ul/span/strong/text()
+      desc: //div[@class='sfContentBlock']/div/ul/text()
+
+Dubai Islamic Bank:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc: 
+
+Emirates Islamic:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+      
+Emirates NBD:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+
+Mashreq Bank:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+
+Banque Misr:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+
+Bank Al Falah Limited:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+
+HSBC Bank Middle East Limited:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+
+Al Ahli Bank of Kuwait:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+
+Abu Dhabi Commercial Bank:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+
+Abu Dhabi Islamic Bank:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+Al Hilal Bank:
+Al Maryah Community Bank:
+Al Masraf Arab Bank for Investment & Foreign Trade:
+First Abu Dhabi Bank:
+Ajman Bank:
+National Bank of Fujairah:
+Commercial Bank International:
+National Bank of Ras Al-Khaimah PJSC (RAKBANK):
+Sharjah Islamic Bank:
+United Arab Bank:
+National Bank of Umm Al-Quwain:
+National Bank of Bahrain:
+Rafidain Bank:
+Arab Bank:
+El Nilein Bank:
+National Bank of Oman:
+BNP Paribas:
+Janata Bank Limited:
+Arab African International Bank:
+Al Khaliji:
+Habib Bank Ltd.:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+
+Habib Bank A.G Zurich:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+
+Standard Chartered Bank:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+
+CitiBank N. A.:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+
+Bank Saderat Iran:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+
+Bank Melli Iran:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+
+Banque Banorient France:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+
+NatWest Markets Plc:
+  baseUrl:  https://www.natwest.com/credit-cards.html?intcam=PC_HP-TTB-Default-UKN3-DEF
+  nexturl:  
+
+  xpath:
+    container:  //div[@class='col-xs-12 col-md-6 col-sm-12 col-lg-7 col-md-offset-right-1']/div
+    image:  
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+
+United Bank Ltd.:
+  #url absent
+
+Doha Bank(credit-card):
+  baseUrl:  https://qa.dohabank.com/personal/cards/credit-card-products/
+  nexturl: //div[@class='artical-body']/ul/li/a/@href 
+
+  xpath:
+    container:
+    image: //div[@class='banner-bg ']/img/@src
+    typeOfCard: 
+    nameOfCard: //div[@class='artical-body']/h1/text()
+    info: //div[@class='artical-body']/p/text()
+    benefits: 
+      title:  //div[@class='accordion']/div/a/text()
+      desc: //div[@class='accordion-inner']
+
+
+Doha Bank(FIFA World Cup):
+  baseUrl:  https://qa.dohabank.com/personal/cards/credit-card-products/fifa-world-cup-credit-cards/
+  nexturl: //div[@class='artical-body']/ul/li/a/@href 
+
+  xpath:
+    container:
+    image: //div[@class='banner-bg ']/img/@src
+    typeOfCard: 
+    nameOfCard: //div[@class='artical-body']/h1/text()
+    info: //div[@class='artical-body']/p/text()
+    benefits: 
+      title:  //div[@class='accordion']/div/a/text()
+      desc: //div[@class='accordion-inner']
+
+Doha Bank(Debit-card):
+  baseUrl:  https://qa.dohabank.com/personal/cards/debit-card-products/
+  nexturl: //div[@class='artical-body']/ul/li/a/@href 
+
+  xpath:
+    container:
+    image: //div[@class='banner-bg ']/img/@src
+    typeOfCard: 
+    nameOfCard: //h1[@class='artical-title']/text()
+    info: //div[@class='artical-body']/p/text()
+    benefits: 
+      title:  //div[@class='artical-body']/h3/text()
+      desc: //div[@class='artical-body']/ul/li/a/text()
+
+Saudi National Bank:
+  baseUrl:  
+  nexturl:  
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: 
+    nameOfCard: 
+    info: 
+    benefits: 
+      title:  
+      desc:
+
+National Bank of Kuwait:
+  baseUrl:  https://www.nbk.com/uae/personal/cards/credit-cards.html
+  nexturl:  //a[@class='learn-more']/@href
+
+  xpath:
+    container:
+    image: //div[@class='owl-bg-img']/@style
+    typeOfCard: 
+    nameOfCard: //section[@class='titles']/h1/text()
+    info: //div[@class='wrappers para-col']/p/text()
+    benefits: 
+      title:  //ol[@class='moving-steps features-points']/li/p/strong/text()
+      desc: //ol[@class='moving-steps features-points']/li/p/text()
+
+BOK International Bank:
+  #url not present
+
+Industrial & Commercial Bank of China:
+  baseUrl:  https://www.icbcasia.com/ICBC/%e6%b5%b7%e5%a4%96%e5%88%86%e8%a1%8c/%e5%b7%a5%e9%93%b6%e4%ba%9a%e6%b4%b2/EN/Credit_Cards/Type_of_Cards/default.htm
+  nexturl:  //a[@class='link3'][1]/@href
+
+  xpath:
+    container:
+    image: //div[@align='center']/p/img/@src
+    typeOfCard: 
+    nameOfCard: //table[@class='ke-zeroborder']/tbody/tr/td/h1/text()
+    info: 
+    benefits: 
+      title:  //table[@class='ke-zeroborder']/tbody/tr/td/h2/text()
+      desc: //table[@class='ke-zeroborder']/tbody/tr/td/p/text()
+
+Deutsche Bank AG:
+  baseUrl:  https://www.deutsche-bank.de/ms/pc/cards0.html
+  nexturl:  
+
+  xpath:
+    container:  //div[@class='colctrl__25-25-25-25 colctrl--nesting-level-0 colctrl--separated-right']
+    image: //figure[@data-meta-width='1059']
+    typeOfCard: //p[@class='text-overline ']/text()
+    nameOfCard: //section[@class='comp comp--padded comp--no-margin-top']/h3/text()
+    info: //section[@class='comp comp--padded comp--no-margin-top']
+    benefits: 
+      title:  //h3[@class='contentsnippet__headline h3']/text()
+      desc:
+
+KEB Hana Bank:
+# not able to scrapy the site site don't response
+
+
+Barclays Bank PLC:
+  baseUrl:  https://www.barclays.co.uk/credit-cards/
+  nexturl:  //div[@data-component-type='CreditCard']/div/div/div/div/a/@href
+
+  xpath:
+    container:
+    image: //div[@data-component-type='CreditCard']/div/div/div/picture/img/@src
+    typeOfCard: 
+    nameOfCard: //div[@class='aperture-left']
+    info: //div[@class='card-features']
+    benefits: 
+      title:  //div[@class='promo-wrapper promo-wrapper-four']/article/div/div/h3/text()
+      desc: //div[@class='promo-wrapper promo-wrapper-four']/article/div/div/div/p/text()
+
+Bank of China Limited (credit-card):
+  baseUrl:  https://www.boc.cn/en/bcservice/bc1/
+  nexturl:  //a[@class='fsm']/@href
+
+  xpath:
+    container:
+    image: //img[@fromphoto='1']/@src
+    typeOfCard: //a[@class='CurrChnlCls']/text()
+    nameOfCard: //td[@align='center']/h1/text()
+    info: //table[@cellpadding='10']/tbody/tr/td
+    benefits: 
+      title:  
+      desc:
+
+Bank of China Limited (Debit-card):
+  baseUrl:  https://www.boc.cn/en/bcservice/bc2/
+  nexturl:  //a[@class='fsm']/@href
+
+  xpath:
+    container:
+    image: 
+    typeOfCard: //a[@class='CurrChnlCls']/text()
+    nameOfCard: //td[@align='center']/h1/text()
+    info: //table[@cellpadding='10']/tbody/tr/td
+    benefits: 
+      title:  
+      desc:
+
+Gulf International Bank:
+  baseUrl:  https://www.e-gulfbank.com/en/personal/cards/
+  nexturl:  //a[@class='title-link']/@href
+
+  xpath:
+    container:
+    image: //div[@class='image-col-6']/img/@src
+    typeOfCard: //ul[@class='breadcrumb']/li[4]/a/text()
+    nameOfCard: //ul[@class='breadcrumb']/li[5]/h1/text()
+    info: //li[@class='col-md-12']/p/text()
+    benefits: 
+      title:  //div[@class='accd-header']/h3/button/text()
+      desc: //div[@class='accordion article-accordion']/div/div/div/ul/li/p/text()
+
+MCB Bank Limited: 
+  baseUrl:  https://www.mcb-bank.com/personal/cards/credit-cards
+  nexturl:  //div[@class='title label wimage']/a/@href
+
+  xpath:
+    container:
+    image: //div[@class='image left']/img/@src
+    typeOfCard: 
+    nameOfCard: //div[@class='title']/header/h2/text()
+    info: //div[@class='text']/ul/li/text()
+    benefits: 
+      title:  
+      desc:
+
+Intesa Sanpaolo S.P.A:
+  baseUrl:  https://www.intesasanpaolobank.si/en/prebivalstvo/placilne-kartice.html
+  nexturl:  //a[@class='btn btn-primary  btn-sm']/@href
+
+  xpath:
+    container:
+    image: //div[@class='tbl1__imageWrapper']/img/@src
+    typeOfCard: //div[@class='tbl1__title']/text()
+    nameOfCard: //div[@class='tbl1__title']/text()
+    info: //span[@class='tbl1__highlistLabel']/text()
+    benefits: 
+      title:  //h3[@class='com10__sliderTitle']/text()
+      desc: //p[@class='com10__sliderDescription']/text()
+
+Agricultural Bank of China Ltd.:
+#url not present
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
