@@ -27,40 +27,59 @@ class Bankcard(scrapy.Spider):
 
         nextPath = response.meta["itemPath"]
         links = response.xpath(nextPath).getall()
+        name = response.meta["bankName"]
         
         for link in links:
             cUrl= response.urljoin(link)
             
             yield scrapy.Request(
                 url=cUrl,method='GET',
-                callback=self.parse_items, meta=response.meta)
+                callback=self.parse_items, meta={'bankName':name, 'burl':cUrl, 'xp':response.meta['xp']})
+
+  # baseUrl:  
+  # nexturl: 
+  # xpath:
+  #   container:
+  #   image: 
+  #   typeOfCard: 
+  #   nameOfCard:
+  #   info:
+  #   benefits: 
+  #     title:  
+  #     desc
 
     def parse_items(self, response):
-        pass
+        
         
         card = CardItem()
         card['bankname'] = response.meta['bankName']
-        card['baseurl'] = response.meta['itemPath']
+        card['cardlink'] = response.meta['burl']
         for key, val in response.meta["xp"].items():
             if val:
-                if key == 'benefits':
-                    # Allbenefits = {}
-                    # titleList = response.xpath(val['title']).getall()
-                    # DescList = response.xpath(val['desc']).getall()
+                if key == 'image':
+                    links = response.xpath(val).get()
+                    card[key] = response.urljoin(links)
+                    
+                elif key=='benefits':
+                    AllBenifits = []
+                    titleList = response.xpath(val['title']).getall()
+                    DescList = response.xpath(val['desc']).getall()
                      
-                    # for title, Desc in zip(titleList, DescList):
-                    #     Allbenefits.update({
-                    #         title: self.extract_desc(Desc)
-                    #     })
+                    for title, Desc in zip(titleList, DescList):
+                        AllBenifits.append({
+                            "title":(title),
+                            "Desc":self.extract_desc(Desc)
+                        })
                         
-                    # card[key]=(
-                    #     Allbenefits
-                    # )
-                    continue
-                else:
                     card[key]=(
-                        self.removehtmllist(response.xpath(val).getall())
+                        AllBenifits
                     )
+                    
+                # elif key=='nameOfCard':
+                    # card[key] = response.xpath(val).getall()
+                else:
+                    card[key] = self.removehtmllist(response.xpath(val).getall())
+                
         yield card
 
     

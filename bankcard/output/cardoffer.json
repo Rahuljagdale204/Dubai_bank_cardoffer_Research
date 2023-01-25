@@ -1,0 +1,1358 @@
+[
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/Etihad_Guest_Premium_Credit_Card_550x346.png",
+        "nameOfCard": "Etihad Guest Premium Credit Card",
+        "info": "Fast-Track Etihad Guest Gold Tier Status.Up to 3.5 Etihad Guest Miles per USD spent.Choice of two category spends to earn more miles.Unlimited 50% miles back on flight redemptions &amp; upgrades.Complimentary airport transfers, airport lounge access, golf &amp; valet parking.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/etihad-guest-premium-credit-card/"
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/Etihad_Guest_Saqer_Credit_Card_550x346.png",
+        "nameOfCard": "Etihad Guest Saqer Credit Card",
+        "info": "Fast-Track Etihad Guest Silver Tier Status.Up to 3 Etihad Guest Miles per USD spent.Choice of two category spends to earn more miles.20% miles back on flight redemptions &amp; upgrades.Complimentary airport transfers, airport lounge access, golf &amp; valet parking.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/etihad-guest-saqer-credit-card/"
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/Etihad_Guest_Ameera_Credit_Card_550x346.png",
+        "nameOfCard": "Etihad Guest Ameera Credit Card",
+        "info": "Fast-Track Etihad Guest Silver Tier Status.Up to 3 Etihad Guest Miles per USD spent.Choice of two category spends to earn more miles.Unlimited 20% miles back on flight redemptions &amp; upgrades.Complimentary airport transfers, airport lounge access, golf &amp; valet parking.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/etihad-guest-ameera-credit-card/"
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/Etihad_Guest_Platinum_Credit_Card_550x346.png",
+        "nameOfCard": "Etihad Guest Platinum Credit Card",
+        "info": "Up to 2 Etihad Guest Miles per USD spent.Unlimited 10% miles back on flight redemptions &amp; upgrades.Discounts on dining, travel, hotels and shopping.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/etihad-guest-platinum-credit-card/"
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/Skywards_black_Credit_Card_550x346.png",
+        "nameOfCard": "Skywards Black",
+        "info": "Up to 3.5 Skywards Miles per USD spent.Automatic upgrade to Emirates Skywards Silver membership.Fast Track to Emirates Skywards Gold Tier Membership.Skywards Gold Tier Membership for Supplementary Cardholder.25% discount on Skywards \u2018Buy Miles\u2019 and \u2018Gift Miles\u2019.Unlimited Complimentary golf any day of the week.3 complimentary valet parking services per month.Unlimited complimentary access to over 1000+ airport lounges with a guest.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/skywards-black-credit-card/"
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/EI_Cards_Infinite_550x346.png",
+        "nameOfCard": "Skywards Infinite",
+        "info": "Automatic upgrade to Emirates Skywards Silver membership.Unlimited Complimentary golf any day of the week.2 complimentary valet parking services per month.Unlimited complimentary access to over 1000+ airport lounges with a guest.Up to 2 Skywards Miles per USD spent.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/infinite-credit-card/"
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/EI-skywards-signature-card-550x346.png",
+        "nameOfCard": "Skywards Signature",
+        "info": "Enjoy earning Miles for every USD 1 spend.Double Skywards Miles for every transaction at Emirates airline.Up to 0.75 Skywards Mile on everyday spends locally.Two rounds of Complimentary golf any day of the week.1 complimentary valet parking service per month.Unlimited complimentary access to over 1000+ airport lounges.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/skywards-cards/signature-credit-card/"
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/EI-cashback-card-550x356.png",
+        "nameOfCard": "Cashback",
+        "info": "5% cash back on telecom expenses.5% cash back on electronic store purchases.Up to 1% guaranteed cash back on all local and international transactions.No minimum spend criteria for earning cash back rewards.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/cash-back-card/"
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/EI-cashback-plus-card-550x356.png",
+        "nameOfCard": "Cashback Plus",
+        "info": "Up to 10% cash back on groceries, education, dining and telecom.Unlimited complimentary access to over 1,000 airport lounges worldwide.Auto top-up facility for Salik accounts.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/cashback-plus-credit-card/"
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/EI-RTA-card-550x348.png",
+        "nameOfCard": "RTA",
+        "info": "10% cash back on fuel spends.10% cash back on RTA transport payments.Up to 2.25% cash back on international spends.Up to 1.25% cash back on all other spends.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/rta-credit-card/"
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/EI-flex-card-550x347.png",
+        "nameOfCard": "Flex",
+        "info": "Up to 2.25 EI SmartMiles per AED 1 spend.Use the \"Instant Purchase\" feature to redeem your EI SmartMiles against any purchase, across the globe at any merchant.Redeem your EI SmartMiles at over 300 Airlines and 180,000 hotels worldwide.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/flex-card/"
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/EI-flex-elite-550x347.png",
+        "nameOfCard": "Flex Elite",
+        "info": "Up to 3.75 EI SmartMiles per AED 1 spend.Unlimited Complimentary golf any day of the week.Complimentary valet parking services per month.Complimentary unlimited access to over 1,000 airport lounges worldwide with a guest.Use the \"Instant Purchase\" feature to redeem your EI SmartMiles against any purchase, across the globe at any merchant.Redeem your EI SmartMiles at over 300 Airlines and 180,000 hotels worldwide.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/flex-elite-card/"
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/EI-emirati-card-550x348.png",
+        "nameOfCard": "Emarati",
+        "info": "A metal card with cutting-edge design.Exclusive for UAE nationals.No Annual Membership Fee.Earn up to 3.75 EI SmartMiles per AED 1 spent.\"Instant Purchase\" feature to redeem your EI SmartMiles against any purchase at any merchant.Choice to exchange EI SmartMiles with Upoints By Emaar, Emirates Skywards, Etihad Guest and InterMiles.Complimentary airport lounge access.Complimentary valet parking.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/emarati-card/"
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/Etihad_Guest_Premium_Credit_Card_550x346.png",
+        "nameOfCard": "Etihad Guest Premium Credit Card",
+        "info": "Fast-Track Etihad Guest Gold Tier Status.Up to 3.5 Etihad Guest Miles per USD spent.Choice of two category spends to earn more miles.Unlimited 50% miles back on flight redemptions &amp; upgrades.Complimentary airport transfers, airport lounge access, golf &amp; valet parking.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/etihad-guest-premium-credit-card/",
+        "benefits": [
+            {
+                "title": "Earn Etihad Guest Miles",
+                "Desc": "Up to 3.5 Etihad Guest Miles per USD spent."
+            },
+            {
+                "title": "Etihad Guest Gold Tier Status",
+                "Desc": "Fast-Track upgrade to Etihad Guest Gold Tier Status."
+            },
+            {
+                "title": "50% Etihad Guest Miles Back",
+                "Desc": "Unlimited 50% miles back on booking/upgrading a flight with Etihad Guest Miles."
+            },
+            {
+                "title": "Airport Transfers",
+                "Desc": "Get 4 complimentary airport transfers to or from Abu Dhabi airport."
+            },
+            {
+                "title": "Welcome Bonus",
+                "Desc": "Welcome BonusSelect your preferred option from the below table and earn up to 55,000 Etihad Guest Miles as welcome bonus up on payment of Annual Membership Fee. OptionsWelcome BonusAnnual Membership Fee (AMF)125,000 Etihad Guest milesAED 1,500/-255,000 Etihad Guest milesAED 2,500/-"
+            },
+            {
+                "title": "Etihad Guest Earn Rates",
+                "Desc": "Etihad Guest Earn RatesFor every USD 1 retail spend made using your Emirates Islamic Etihad Guest Card you will earn Etihad Guest Miles as per below.Spend CategoryEarn RatesSpend at Etihad Airline3.5 Etihad Guest MilesInternational Spend3 Etihad Guest MilesTwo Chosen Categories2.5 Etihad Guest MilesDomestic SpendUp to 2 Etihad Guest Miles"
+            },
+            {
+                "title": "Choose your Accelerated Rewards Category",
+                "Desc": "Choose your Accelerated Rewards CategoryEmirates Islamic Etihad Guest Premium card is the only credit card in the UAE that gives you the freedom of choice to define your preferred categories and earn Etihad Guest Miles on spends made on the same. You can chose your preferred categories from any of the below.Apparel ShoppingBeauty &amp; WellnessCar RentalsDiningDuty FreeHotels Jewelry/WatchesMobile WalletsOnline TransactionsSupermarketsYou will earn 2.5 Etihad Guest Miles for every USD 1 spend on the chosen categories. The Etihad Guest Mile earning on the 2 chosen categories is capped at 1,500 Miles per category per month.You also have the option to change your chosen categories every quarter by calling our call center."
+            },
+            {
+                "title": "Earn Tier Miles:",
+                "Desc": "Earn Tier Miles:Earn 1 Etihad Guest Tier Mile for every 1 USD spent internationally on non-AED currency using your card. A maximum of 20,000 Tier Miles can be earned in a membership year."
+            },
+            {
+                "title": "Fast-Track to Etihad Guest Gold Tier Status",
+                "Desc": "Fast-Track to Etihad Guest Gold Tier StatusAs an Emirates Islamic Etihad Guest Premium Credit Cardholder, you will be eligible for a fast track to Etihad Guest Gold Tier Status, by fulfilling the following condition:Complete 1 return flight or 2 one-way flights on Etihad Airways within the first 6 months of card booking and the tickets should be paid using your Emirates Islamic Etihad Guest Premium Card If you are an existing Etihad Guest Gold or Platinum member, your existing tier status will not be affected. For more details about Etihad Guest Gold Tier Status benefits please click here.Etihad Guest Gold Tier Status is available for primary cardholders only. Etihad Guest programme Terms &amp; Conditions will apply."
+            },
+            {
+                "title": "Unlimited 50% Miles back on booking/upgrading a flight with Etihad Guest Miles",
+                "Desc": "Unlimited 50% Miles back on booking/upgrading a flight with Etihad Guest MilesGet 50% of your Etihad Guest Miles back when you book/upgrade a flight using your Etihad Guest Miles. There is no maximum limit on the Miles received per year.Miles will be credited to the customer\u2019s Etihad Guest account within 15 working days.Miles back offer will be applicable only on the airfare ticket redemption and not for the airport taxes redemption."
+            },
+            {
+                "title": "Complimentary Inflight wifi vouchers",
+                "Desc": "Complimentary Inflight wifi vouchersEnjoy 4 complimentary wifi vouchers every membership year. You will receive 1 wi-fi voucher on every transaction of AED 500 or more made on Etihad airways (etihad.com, Etihad branches or the Etihad call center); capped at 4 vouchers per annum.Each voucher is valid for 1 year and can only be used once. The voucher will be sent to you by Etihad Guest via email within 10 days of meeting the spend criteria."
+            },
+            {
+                "title": "Complimentary Airport Transfers",
+                "Desc": "Complimentary Airport TransfersTake advantage of up to 4 complimentary airport transfers per calendar year to or from Abu Dhabi airport.Benefit available only when Etihad airways transaction is done using Emirates Islamic Etihad Guest Credit Card, within the last 3 months. If the spend criteria is not met or on exceeding the maximum complimentary transfer services, a flat fee of AED 150 (within Abu Dhabi) and AED 350 (any other locations) per extra service will be charged to your credit card.Click here to know more about the eligibility criteria and the booking process."
+            },
+            {
+                "title": "0% Easy Payment Plan on Etihad purchases",
+                "Desc": "0% Easy Payment Plan on Etihad purchasesConvert your purchases made at etihad.com into convenient monthly installments, of 3 or 6 months. Processing fee of 2% will be applied."
+            },
+            {
+                "title": "Complimentary Lounge Access",
+                "Desc": "Complimentary Lounge AccessEnjoy unlimited complimentary access to over 1000 airport lounges with a guestFor more details about the Lounge Key program please visit www.loungekey.com/visainfinitemena.Terms &amp; Conditions:1st visit to the Lounge in a calendar year is complimentary.To utilize the subsequent complimentary visits in the same calendar year, customer needs to make a minimum foreign currency spend of USD 1 or equivalent, on both primary &amp; supplementary cards 15 days prior the lounge visit. If the spend criteria is not met then customer will be charged US $27 per usage to the used card.For every accompanying guest (above the 1 guest allowance), cardholders will be charged US $27 per person per visit."
+            },
+            {
+                "title": "Unlimited complimentary golf any day of the week",
+                "Desc": "Unlimited complimentary golf any day of the weekEnjoy unlimited complimentary golf rounds at Arabian Ranches Golf Club, Track Meydan Golf Club, The Trump International Golf Club or Yas Links Golf Club on weekends or weekdays.A minimum monthly (calendar month) retail spend of AED 10,000 is required on your card to avail the benefit. If the spend criteria is not met or no show at the club, your credit card will be billed with the applicable green fee.Click here to book your game, charges and other Terms &amp; Conditions."
+            },
+            {
+                "title": "Meet & Greet Service",
+                "Desc": "Meet &amp; Greet ServiceEnjoy up to 2 complimentary Marhaba Silver Meet &amp; Greet(Dubai) OR Meet &amp; Assist Plus(Abu Dhabi) services per year. A minimum monthly (calendar month) retail spend of AED 5,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary service usage, your credit card will be billed with the applicable service fee.Click here for the Terms &amp; Conditions.Click here to book now!"
+            },
+            {
+                "title": "Multi trip travel Insurance",
+                "Desc": "Multi trip travel InsuranceTravel with complete freedom and peace of mind. Your Emirates Islamic Etihad Guest Visa Infinite card saves you the time and expense of organizing travel and medical insurance separately when you travel. You are automatically covered for travel accident and travel inconvenience insurance on all trips of up to 90 days duration. Visit to get you travel insurance certificate https://cardholderbenefitsonline.com/."
+            },
+            {
+                "title": "Exclusive Visa Infinite Offers",
+                "Desc": "Exclusive Visa Infinite OffersWe have partnered with VISA International to bring you exclusive discounts and special offers. Your Etihad Guest Visa Infinite Credit Card privileges connect you to a world of even changing luxury. For assistance please visit www.visainfinitecard.com."
+            },
+            {
+                "title": "Extended Warranty",
+                "Desc": "Extended WarrantyWhen you buy quality, you expect it to last. That's why we automatically double the original manufacturer's warranty up to one year from the expiry date of the original warranty. For more details, visit www.visamiddleeast.com."
+            },
+            {
+                "title": "Global Assistance",
+                "Desc": "Global AssistanceNo matter where you are in the world, VISA International multilingual service representatives are on hand to assist you 24 hours a day, 365 days a year. If your Visa Infinite card has been lost or stolen, Visa Global Customer Assistance Services representatives can help. For help, call 8000-021 866-654-0112 from inside UAE or +1 303 967 1090* from outside UAE."
+            },
+            {
+                "title": "Earn 50% cashback on Movies",
+                "Desc": "Earn 50% cashback on MoviesEnjoy movie nights even more by getting 50% cashback on Cinema tickets, any day of the week.The maximum cashback a cardholder can earn is AED 100 per month.Cardholders can purchase tickets from any cinema hall, for any class &amp; on any day of the week.Terms &amp; Conditions:Cashback will be credited to your account with 5 working days from the transaction date.Movie spends will be determined basis Merchant code 7832, as defined by VISA. This code can be changed by VISA at any time, without prior notice and will be updated on our system accordingly."
+            },
+            {
+                "title": "Complimentary Valet Parking",
+                "Desc": "Complimentary Valet ParkingEnjoy 2 complimentary valet parking services per month at select locations across the UAE. All you have to do is present your Emirates Islamic Etihad Guest Premium card at the valet parking desk.A minimum monthly (calendar month) retail spend of AED 5,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary services, your credit card will be billed with the actual service amount.Click here for the valet parking locations, charges and other Terms &amp; Conditions."
+            },
+            {
+                "title": "Purchase Protection",
+                "Desc": "Purchase ProtectionWhen paying with your Emirates Islamic Etihad Guest Visa Infinite card, you will benefit from Purchase Protection for lost, stolen or damaged goods purchased. Enjoy a coverage of USD 7,500 per occurrence &amp; USD 20,000 per year.For further assistance, please call one of the numbers: Toll-free: 800 0441 3487 or +971 4 361 1234. For more details about the service terms and conditions please visit https://cardholderbenefitsonline.com/."
+            },
+            {
+                "title": "Balance Transfer Facility",
+                "Desc": "Balance Transfer FacilityNow you can really save big time with your Etihad Guest Visa Infinite Credit Card balance transfer facility. You have the opportunity to pay off balances you owe to other banks through your Etihad Guest Visa Infinite Credit Card, with no profit charged on the balance transferred."
+            },
+            {
+                "title": "Cash Advance",
+                "Desc": "Cash AdvanceYou can now withdraw cash as per Bank's policy through your Etihad Guest Visa Infinite Credit Card's instant cash advance facility from any Emirates Islamic branch and at more than 780,000 ATMs, exchange houses and financial institutions worldwide displaying the VISA logo. Cash advance fee will apply and no Etihad Guest Miles are granted against cash advance."
+            },
+            {
+                "title": "Global Concierge",
+                "Desc": "Global ConciergeTake advantage of a host of services including and not limited to flight/hotel/restaurant reservations available to you over the phone or online, 24 hours a day, from anywhere in the world by simply calling Concierge hotlines. UAE Toll-free: 800 0441 3487 , UAE International Direct Dialing: +9714 436 7222 OR +1 773 360 5320 Alternatively, you can send an email to [email\u00a0protected]."
+            },
+            {
+                "title": "Complimentary Access to Dubai Ladies Club & Sharjah Ladies Club",
+                "Desc": "Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies ClubYou can avail complimentary access to Dubai Ladies Club &amp; Sharjah Ladies Club in the UAE and enjoy various benefit like Pool &amp; beach access, gym, outdoor activities and more.All you have to do is present your Emirates Islamic Etihad Guest Premium credit card at Dubai Ladies Club &amp; Sharjah Ladies Club at their reception desk.Click here for the Terms &amp; Conditions."
+            }
+        ]
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/Etihad_Guest_Ameera_Credit_Card_550x346.png",
+        "nameOfCard": "Etihad Guest Ameera Credit Card",
+        "info": "Fast-Track Etihad Guest Silver Tier Status.Up to 3 Etihad Guest Miles per USD spent.Choice of two category spends to earn more miles.Unlimited 20% miles back on flight redemptions &amp; upgrades.Complimentary airport transfers, airport lounge access, golf &amp; valet parking.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/etihad-guest-ameera-credit-card/",
+        "benefits": [
+            {
+                "title": "Earn Etihad Guest Miles",
+                "Desc": "Up to 3 Etihad Guest Miles per USD spent."
+            },
+            {
+                "title": "Etihad Guest Silver Tier Status",
+                "Desc": "Fast-Track upgrade to Etihad Guest silver Tier Status."
+            },
+            {
+                "title": "20% Etihad Guest Miles Back",
+                "Desc": "Unlimited 20% miles back on booking/upgrading a flight with Etihad Guest Miles."
+            },
+            {
+                "title": "Airport Transfers",
+                "Desc": "Get 2 complimentary airport transfers to or from Abu Dhabi airport."
+            },
+            {
+                "title": "Welcome Bonus",
+                "Desc": "Welcome BonusWelcome bonus of 20,000 Etihad Guest Miles upon payment of Annual Membership Fee."
+            },
+            {
+                "title": "Etihad Guest Earn Rates",
+                "Desc": "Etihad Guest Earn RatesFor every USD 1 retail spend made using your Emirates Islamic Etihad Guest Card you will earn Etihad Guest Miles as per below.Spend CategoryEarn RatesSpend at Etihad Airline3 Etihad Guest MilesInternational Spend2 Etihad Guest MilesTwo Chosen Categories2.5 Etihad Guest MilesDomestic SpendUp to 1.5 Etihad Guest Miles"
+            },
+            {
+                "title": "Choose your Accelerated Rewards Category",
+                "Desc": "Choose your Accelerated Rewards CategoryEmirates Islamic Etihad Guest Ameera card is the only credit card in the UAE that gives you the freedom of choice to define your preferred categories and earn Etihad Guest Miles on spends made on the same. You can chose your preferred categories from any of the below.Beauty/WellnessDiningJewelry/WatchesApparel ShoppingSupermarketsYou will earn 2.5 Etihad Guest Miles for every USD 1 spend on the chosen categories. The Etihad Guest Mile earning on the 2 chosen categories is capped at 1,500 Miles per category per month.You also have the option to change your chosen categories every quarter by calling our call center."
+            },
+            {
+                "title": "Earn Tier Miles:",
+                "Desc": "Earn Tier Miles:Earn 1 Etihad Guest Tier Mile for every 1 USD spent internationally on non-AED currency using your card. A maximum of 15,000 Tier Miles can be earned in a membership year."
+            },
+            {
+                "title": "Fast-Track to Etihad Guest Silver Tier Status",
+                "Desc": "Fast-Track to Etihad Guest Silver Tier StatusAs an Emirates Islamic Etihad Guest Ameera Credit Cardholder, you will be eligible for a fast track to Etihad Guest Silver Tier Status, by fulfilling the following condition:Complete 2 return flight or 4 one-way flights on Etihad Airways within the first 6 months of card booking and the tickets should be paid using your Emirates Islamic Etihad Guest Ameera Card If you are an existing Etihad Guest Gold or Platinum member, your existing tier status will not be affected. For more details about Etihad Guest Silver Tier Status benefits please click here.Etihad Guest Silver Tier Status is available for primary cardholders only. Etihad Guest programme Terms &amp; Conditions will apply."
+            },
+            {
+                "title": "Unlimited 20% Miles back on booking/upgrading a flight with Etihad Guest Miles",
+                "Desc": "Unlimited 20% Miles back on booking/upgrading a flight with Etihad Guest MilesGet 20% of your Etihad Guest Miles back when you book/upgrade a flight using your Etihad Guest Miles. There is no maximum limit on the Miles received per year.Miles will be credited to the customer's Etihad Guest account within 15 working days.Miles back offer will be applicable only on the airfare ticket redemption and not for the airport taxes redemption."
+            },
+            {
+                "title": "Complimentary Inflight wifi vouchers",
+                "Desc": "Complimentary Inflight wifi vouchersEnjoy 2 complimentary wifi vouchers every membership year. You will receive 1 wi-fi voucher on every transaction of AED 500 or more made on Etihad airways (etihad.com, Etihad branches or the Etihad call center); capped at 4 vouchers per annum. Each voucher is valid for 1 year and can only be used once. The voucher will be sent to you by Etihad Guest via email within 10 days of meeting the spend criteria."
+            },
+            {
+                "title": "Complimentary Airport Transfers",
+                "Desc": "Complimentary Airport TransfersTake advantage of up to 2 complimentary airport transfers per calendar year to or from Abu Dhabi airport.Benefit available only when Etihad airways transaction is done using Emirates Islamic Etihad Guest Credit Card, within the last 3 months. If the spend criteria is not met or on exceeding the maximum complimentary transfer services, a flat fee of AED 150 (within Abu Dhabi) and AED 350 (any other locations) per extra service will be charged to your credit card.Click here to know more about the eligibility criteria and the booking process."
+            },
+            {
+                "title": "0% Easy Payment Plan on Etihad purchases",
+                "Desc": "0% Easy Payment Plan on Etihad purchasesConvert your purchases made at etihad.com into convenient monthly installments, of 3 or 6 months. Processing fee of 2% will be applied."
+            },
+            {
+                "title": "Complimentary Lounge Access",
+                "Desc": "Complimentary Lounge AccessEnjoy unlimited complimentary access to over 1000 airport lounges.For more details about the Lounge Key program please visit www.loungekey.com/visasignaturemena.Terms &amp; Conditions:1st visit to the Lounge in a calendar year is complimentary.To utilize the subsequent complimentary visits in the same calendar year, customer needs to make a minimum foreign currency spend of USD 1 or equivalent, on both primary &amp; supplementary cards 15 days prior the lounge visit . If the spend criteria is not met then customer will be charged US $27 per usage to the used card.For every accompanying guest, cardholders will be charged US $27 per person per visit."
+            },
+            {
+                "title": "Complimentary golf any day of the week",
+                "Desc": "Complimentary golf any day of the weekEnjoy two rounds of complimentary golf per month at Arabian Ranches Golf Club, Track Meydan Golf Club, The Trump International Golf Club or Yas Links Golf Club on weekends or weekdays.A minimum monthly (calendar month) retail spend of AED 5,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary golf rounds or no show at the club, your credit card will be billed with the applicable green fee.Click here to book your game, charges and other Terms &amp; Conditions."
+            },
+            {
+                "title": "Meet & Greet Service",
+                "Desc": "Meet &amp; Greet ServiceEnjoy up to 2 complimentary Marhaba Silver Meet &amp; Greet(Dubai) OR Meet &amp; Assist Basic(Abu Dhabi) services per year. A minimum monthly (calendar month) retail spend of AED 3,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary service usage, your credit card will be billed with the applicable service fee. Click here for the Terms &amp; Conditions.Click here to book now!"
+            },
+            {
+                "title": "Multi trip travel Insurance",
+                "Desc": "Multi trip travel InsuranceTravel with complete freedom and peace of mind. Your Emirates Islamic Etihad Guest Visa Signature card saves you the time and expense of organizing travel and medical insurance separately when you travel. You are automatically covered for travel accident and travel inconvenience insurance on all trips of up to 90 days duration. Visit to get you travel insurance certificate https://cardholderbenefitsonline.com/."
+            },
+            {
+                "title": "Extended Warranty",
+                "Desc": "Extended Warranty When you buy quality, you expect it to last. That's why we automatically double the original manufacturer's warranty up to one year from the expiry date of the original warranty. For more details, visit www.visamiddleeast.com."
+            },
+            {
+                "title": "Global Assistance",
+                "Desc": "Global AssistanceNo matter where you are in the world, VISA International multilingual service representatives are on hand to assist you 24 hours a day, 365 days a year. If your Visa Signature card has been lost or stolen, Visa Global Customer Assistance Services representatives can help. For help, call 8000-021 866-654-0112 from inside UAE or +1 303 967 1090* from outside UAE."
+            },
+            {
+                "title": "Earn 50% cashback on Movies",
+                "Desc": "Earn 50% cashback on MoviesEnjoy movie nights even more by getting 50% cashback on Cinema tickets, any day of the week.The maximum cashback a cardholder can earn is AED 75 per month.Cardholders can purchase tickets from any cinema hall, for any class &amp; on any day of the week.Terms &amp; Conditions:Cashback will be credited to your account with 5 working days from the transaction date.Movie spends will be determined basis Merchant code 7832, as defined by VISA. This code can be changed by VISA at any time, without prior notice and will be updated on our system accordingly."
+            },
+            {
+                "title": "Complimentary Valet Parking",
+                "Desc": "Complimentary Valet ParkingEnjoy 1 complimentary valet parking services per month at select locations across the UAE. All you have to do is present your Emirates Islamic Etihad Guest Ameera card at the valet parking desk.A minimum monthly (calendar month) retail spend of AED 3,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary services, your credit card will be billed with the actual service amount.Click here for the valet parking locations, charges and other Terms &amp; Conditions."
+            },
+            {
+                "title": "Purchase Protection",
+                "Desc": "Purchase ProtectionPurchase protection provides you with additional peace of mind every time you make a purchase. It protects your purchases against theft or damage so you can focus on finding the perfect gift. For more details Click here."
+            },
+            {
+                "title": "Balance Transfer Facility",
+                "Desc": "Balance Transfer FacilityNow you can really save big time with your Etihad Guest Visa Signature Credit Card balance transfer facility. You have the opportunity to pay off balances you owe to other banks through your Etihad Guest Visa Signature Credit Card, with no profit charged on the balance transferred."
+            },
+            {
+                "title": "Cash Advance",
+                "Desc": "Cash AdvanceYou can now withdraw cash as per Bank's policy through your Etihad Guest Visa Signature Credit Card's instant cash advance facility from any Emirates Islamic branch and at more than 780,000 ATMs, exchange houses and financial institutions worldwide displaying the VISA logo. Cash advance fee will apply and no Etihad Guest Miles are granted against cash advance."
+            },
+            {
+                "title": "Global Concierge",
+                "Desc": "Global ConciergeTake advantage of a host of services including and not limited to flight/hotel/restaurant reservations available to you over the phone or online, 24 hours a day, from anywhere in the world by simply calling Concierge hotlines. UAE Toll-free: 800 0441 3487 , UAE International Direct Dialing: +971 4361 1234 Alternatively, you can send an email to [email\u00a0protected]."
+            },
+            {
+                "title": "Complimentary Access to Dubai Ladies Club & Sharjah Ladies Club",
+                "Desc": "Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies ClubYou can avail complimentary access to Dubai Ladies Club &amp; Sharjah Ladies Club in the UAE and enjoy various benefit like Pool &amp; beach access, gym, outdoor activities and more.All you have to do is present your Emirates Islamic Etihad Guest Ameera credit card at Dubai Ladies Club &amp; Sharjah Ladies Club at their reception desk. Click here for the Terms &amp; Conditions."
+            }
+        ]
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/EI-emirati-card-550x348.png",
+        "nameOfCard": "Emarati",
+        "info": "A metal card with cutting-edge design.Exclusive for UAE nationals.No Annual Membership Fee.Earn up to 3.75 EI SmartMiles per AED 1 spent.\"Instant Purchase\" feature to redeem your EI SmartMiles against any purchase at any merchant.Choice to exchange EI SmartMiles with Upoints By Emaar, Emirates Skywards, Etihad Guest and InterMiles.Complimentary airport lounge access.Complimentary valet parking.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/emarati-card/",
+        "benefits": [
+            {
+                "title": "Exclusive Metal Card designed for Emarati",
+                "Desc": "No Annual Membership fees card."
+            },
+            {
+                "title": "EI SmartMiles rewards programme",
+                "Desc": "Up to 3.75 EI SmartMiles per 1 AED spend."
+            },
+            {
+                "title": "Dubai Ladies Club & Sharjah Ladies Club Access",
+                "Desc": "Enjoy a Complimentary Access to Dubai Ladies Club & Sharjah Ladies Club."
+            },
+            {
+                "title": "Valet Parking",
+                "Desc": "2 valet parking service per month."
+            },
+            {
+                "title": "Get the App",
+                "Desc": "Get the AppThe EI Rewards app is available on iOS and Android, click here to find out more or scan the QR Code below to access."
+            },
+            {
+                "title": "How to earn EI Smart Miles:",
+                "Desc": "How to earn EI Smart Miles:Emarati CardInternational spend*Upto 3.75 EI Smart Miles per AED 1Domestic Spend*Upto 2.5 EI Smart Miles Per AED 1* For more details about EISmartMiles earning rates pleaseClick here."
+            },
+            {
+                "title": "Miles Exchange",
+                "Desc": "What can you do with your EI SmartMiles?Miles ExchangeSimply exchange your EI SmartMiles with our partner loyalty programmes - Avios with Qatar Airways Privilege Club, Upoints By Emaar, Emirates Skywards, Etisalat Smiles, Etihad Guest and InterMiles.6,500 EI SmartMiles = 1,000 Upoints By Emaar7,500 EI SmartMiles = 5,000 Etisalat Smiles10,000 EI SmartMiles = 1,750 Avios 10,000 EI SmartMiles = 1,000 Emirates Skywards Miles10,000 EI SmartMiles = 1,500 Etihad Guest Miles20,000 EI SmartMiles = 4,000 InterMilesYour Miles will be transferred within 5 working daysAll you need to do is select the partner program and enter your membership number on the app."
+            },
+            {
+                "title": "Instant purchase",
+                "Desc": "Instant purchaseThe Instant Purchase feature allows you to redeem your EI SmartMiles from any shop or online site in the world. When you are making your purchase just use your EI SmartMiles against that purchase.Just follow 3 simple steps:Step 1: Login using EI Rewards mobile app 'or' through eirewards.aeStep 2: Tap on \"Instant Purchase\" and make a choice Step 3: Go ahead &amp; make your transaction using your Emarati CardWithin 5 days the EI SmartMiles balance will be deducted from your account and a statement credit will be posted onto your Emarati Card."
+            },
+            {
+                "title": "Gift EI SmartMiles",
+                "Desc": "Gift EI SmartMilesGifting has never been easier! The next time you want to pamper a loved one, you can simply Gift them EI SmartMiles with just a few steps and they can redeem it as and when they like. All you need to do is select the \u2018Gift EI SmartMiles\u2019 option and choose the number of EI SmartMiles you\u2019d like to gift and simply share the unique link with another existing EI SmartMiles loyalty member. Once the recipient clicks on the link &amp; accepts, the chosen EI SmartMiles will be deducted from your account and reflect in the receivers account immediately.Click here to see how it works."
+            },
+            {
+                "title": "Travel",
+                "Desc": "TravelInstant EI SmartMiles redemption at over 300 airlines and more than 180,000 hotels worldwide, car rentals and much more starting from as low as 4,000 EI SmartMiles."
+            },
+            {
+                "title": "Online Market Place",
+                "Desc": "Online Market PlaceIndulge in a wide range of shopping options with EI SmartMiles online market place. Choose your favourite apparels, electronics, toys and more and instantly receive an e-voucher for use at any mall within the UAE.  Our e-vouchers let you and your loved ones get exactly what you want, anytime and anywhere. Choose your favourite apparels, electronics, toys and more and instantly receive an e-voucher for use at any mall within the UAE."
+            },
+            {
+                "title": "Exclusive Metal Card designed for Emarati",
+                "Desc": "Exclusive Metal Card designed for EmaratiExclusive for UAE nationals Emarati Credit Card comes in a sleek metal with cutting-edge design and brings you an array of attractive lifestyle and travel benefits. Unlike other credit cards in UAE, there\u2019s always something in-store for you when you use the Emirati Credit Card, winner of the \u2018Best Islamic Card\u2019 at the 2018 Banker Middle East Product Awards."
+            },
+            {
+                "title": "Complimentary Reel Cinemas Movie Tickets",
+                "Desc": "Complimentary Reel Cinemas Movie TicketsEnjoy up to 2 \u201cBuy 1 Get 1\u201d complimentary movie tickets each month, any day of the week. Click here to know about the eligibility criteria."
+            },
+            {
+                "title": "Enjoy 15% off on Emaar Entertainment Attractions",
+                "Desc": "Enjoy 15% off on Emaar Entertainment AttractionsEnjoy 15% discount on the below Emaar Entertainment Attractions.Dig It - Stay and DigKidZania Abu DhabiKidZania DubaiVR Park \u2013 Pay &amp; PlayEkart Ice Rink The Dubai Fountain BoardwalkClick here to know about Emaar Attractions Term &amp; Conditions."
+            },
+            {
+                "title": "Preferential Pricing",
+                "Desc": "Preferential PricingNot only does your Emirates Islamic Emarati Credit Card bring you endless benefits and rewards, but it is also no Annual Membership Fees and comes with an attractive profit rate of only 3.39%."
+            },
+            {
+                "title": "Airport Lounge Access",
+                "Desc": "Airport Lounge AccessEnjoy unlimited complimentary access to over 1000 airport lounges worldwide.For more details about the Lounge Key program please visit www.loungekey.com/visasignaturemenaTerms &amp; Conditions:1st visit to the Lounge in a calendar year is complimentary.To utilize the subsequent complimentary visits in the same calendar year, customer needs to make a minimum foreign currency spend of USD 1 or equivalent, on both primary &amp; supplementary cards 15 days prior the lounge visit. If the spend criteria is not met then customer will be charged US $27 per usage to the used card.For every accompanying guest, cardholders will be charged US $27 per person per visit"
+            },
+            {
+                "title": "Valet Parking",
+                "Desc": "Valet ParkingYou can avail complimentary Valet Parking at some of the top locations in the UAE. This service is offered to every eligible Emarati Credit Card holder, including supplementary credit cardholders, where they will get two (2) complimentary Valet Parking Services per month at selected Offer Locations.All you have to do is present your Emarati Credit Card at the Valet Parking Desk.Click here for locations and terms &amp; conditions."
+            },
+            {
+                "title": "Visa Luxury Hotel Collection",
+                "Desc": "Visa Luxury Hotel CollectionThe Emarati Credit Card allows you to unwind at a range of luxury hotels across the globe. Enjoy unsurpassed value at over 900 intriguing and prestigious properties around the world with your Emirates Islamic Emarati Credit Card.Our exclusive hand-selected portfolio includes boutique gems as well as world-famous hotels and resorts.Privileges on your Card:Best available rate guaranteeAutomatic room upgrade upon arrival when availableIn-room internetComplimentary continental breakfast3:00 PM check-out when availableVIP Guest statusUSD 25 food or beverage voucherFor more details, please visit visaluxuryhotels.com"
+            },
+            {
+                "title": "Payments on-the-go",
+                "Desc": "Payments on-the-goExperience ultimate convenience with your Emirates Islamic Emarati Credit Card. Make secure and easy payments anywhere you see the Apple Pay, Samsung Pay and Google Pay symbols worldwide. So wave goodbye to cash and say hello to fast, easy and safe payments."
+            },
+            {
+                "title": "Global Concierge",
+                "Desc": "Global ConciergeYou can avail the Global Concierge facility which provides you with a hosts of services, including flight, hotel and restaurant reservations. You can avail these exclusive host of services over the phone or online, 24 hours a day, from anywhere in the world.Just call the Concierge Service.UAE Toll-free: 800 0441 3487UAE International Direct Dialling: +971 4 361 1234Alternatively, you can send an email to[email\u00a0protected]"
+            },
+            {
+                "title": "Multi-trip travel insurance",
+                "Desc": "Multi-trip travel insuranceTravel with complete freedom and peace of mind. Your Emirates Islamic Emarati (Signature) Visa credit card saves you the time and expense of organizing travel and medical insurance separately when you travel. The process is simple, all you need to do is pay for your travel with the Emarati Credit Card and you are automatically covered for travel accident and travel inconvenience insurance on all trips of up to 90 days duration. Visit cardholderbenefitsonline.com/ to get your travel insurance certificate."
+            },
+            {
+                "title": "Extended Warranty",
+                "Desc": "Extended WarrantyWhen you buy quality, you expect it to last. That's why we automatically double the original manufacturer's warranty up to one year from the expiry date of the original warranty. For more details, visit www.visamiddleeast.com."
+            },
+            {
+                "title": "Purchase Protection",
+                "Desc": "Purchase ProtectionPurchase protection provides you with additional peace of mind every time you make a purchase. It protects your purchases against theft or damage so you can focus on finding the perfect gift. For more details, visit cardholderbenefitsonline.com."
+            },
+            {
+                "title": "Supplementary Card",
+                "Desc": "Supplementary CardEarn rewards faster and get more cash back. Apply for a Supplementary Card for your loved ones to share the privileges and benefits offered on your Emirates Islamic Emarati Credit Card. You can get up to 4 supplementary cards for your family.Each Supplementary Card issued under your account allows you to track your expenses and helps you manage your cash flow under simplified billing with a single monthly payment for all Cards on the same account.Supplementary cardholders also enjoy the same benefits as a primary cardholder and can use the complimentary valet parking feature and LoungeKey airport lounge access."
+            },
+            {
+                "title": "Cash-on-Call and Cash Advance facility",
+                "Desc": "Cash-on-Call and Cash Advance facilityWe understand that at times you may require cash-in-hand to address your emergencies. Your Emirates Islamic Emarati Credit Card comes with two key features, Cash-on-Call and Cash Advance. With Cash-on-Call you can simply call 600 599 995 and get cash of the Card Limit credited immediately to your account. With Cash Advance you can conveniently access cash from ATMs up to 50% of the Card Limit and up to AED 10,000 per withdrawal at competitive charges."
+            },
+            {
+                "title": "Balance Transfer",
+                "Desc": "Balance TransferTransfer the outstanding balance of your Card from other banks to your Emirates Islamic Emarati Credit Card."
+            },
+            {
+                "title": "Easy Payment Plans",
+                "Desc": "Easy Payment PlansShop to your heart's content with the 0% Easy Payment Plan. From electronics, telecom, supermarket and jewellery; ask for our profit free Easy Payment Plans of 3, 6, 9 or 12 months when making a purchase at our partner outlets such as Carrefour and Sharaf DG among others."
+            },
+            {
+                "title": "Complimentary Access to Dubai Ladies Club & Sharjah Ladies Club",
+                "Desc": "Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies ClubYou can avail complimentary access to Dubai Ladies Club &amp; Sharjah Ladies Club in the UAE and enjoy various benefit like Pool &amp; beach access, gym, outdoor activities and more.All you have to do is present your Emirates Islamic Emarati credit card at Dubai Ladies Club &amp; Sharjah Ladies Club at their reception desk. Click here for the Terms &amp; Conditions."
+            },
+            {
+                "title": "Meet & Greet Silver Service",
+                "Desc": "Meet &amp; Greet Silver ServiceEnjoy up to 2 complimentary Marhaba Meet &amp; Greet services per year. A minimum monthly (calendar month) retail spend of AED 5,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary service usage, your credit card will be billed with the applicable service fee.Click here for the Terms &amp; Conditions.Click here to book now!"
+            }
+        ]
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/EI-skywards-signature-card-550x346.png",
+        "nameOfCard": "Skywards Signature",
+        "info": "Enjoy earning Miles for every USD 1 spend.Double Skywards Miles for every transaction at Emirates airline.Up to 0.75 Skywards Mile on everyday spends locally.Two rounds of Complimentary golf any day of the week.1 complimentary valet parking service per month.Unlimited complimentary access to over 1000+ airport lounges.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/skywards-cards/signature-credit-card/",
+        "benefits": [
+            {
+                "title": "Earn Skywards Miles",
+                "Desc": "Up to 1.5 Skywards Miles per USD spent."
+            },
+            {
+                "title": "Lounge Access",
+                "Desc": "Unlimited complimentary access to over 1000+ airport lounges."
+            },
+            {
+                "title": "Valet Parking",
+                "Desc": "1 complimentary valet parking service per month."
+            },
+            {
+                "title": "Welcome Bonus Promotion",
+                "Desc": "Get up to 50,000 bonus Skywards Miles. For more details"
+            },
+            {
+                "title": "Complimentary Lounge Access",
+                "Desc": "."
+            },
+            {
+                "title": "Complimentary Reel Cinemas Movie Tickets",
+                "Desc": "Complimentary Lounge AccessEnjoy unlimited complimentary access to over 1000 airport loungesFor more details about the Lounge Key program please visit www.loungekey.com/visasignaturemena.Terms &amp; Conditions:1st visit to the Lounge in a calendar year is complimentary.To utilize the subsequent complimentary visits in the same calendar year, customer needs to make a minimum foreign currency spend of USD 1 or equivalent, on both primary &amp; supplementary cards 15 days prior the lounge visit. If the spend criteria is not met then customer will be charged US $27 per usage to the used card.For every accompanying guest, cardholders will be charged US $27 per person per visit."
+            },
+            {
+                "title": "Enjoy 15% off on Emaar Entertainment Attractions",
+                "Desc": "Complimentary Reel Cinemas Movie TicketsEnjoy up to 2 \"Buy 1 Get 1\" complimentary movie tickets each month, any day of the week.A minimum monthly (calendar month) retail spend of AED 3,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary tickets usage, your credit card will be billed with the discount availed. For more information on the Reel Cinemas offer, Click here."
+            },
+            {
+                "title": "Complimentary Valet Parking",
+                "Desc": "Enjoy 15% off on Emaar Entertainment AttractionsEnjoy 15% discount on the below Emaar Entertainment Attractions.Dig It - Stay and DigKidZania Abu DhabiKidZania DubaiVR Park \u2013 Pay &amp; PlayEkart Ice Rink The Dubai Fountain BoardwalkClick here to know about Emaar Attractions Terms &amp; Conditions."
+            },
+            {
+                "title": "Complimentary golf any day of the week",
+                "Desc": "Complimentary Valet ParkingEnjoy 1 complimentary valet parking services per month at select locations across the UAE. All you have to do is present your Emirates Islamic Skywards Signature card at the valet parking desk.A minimum monthly (calendar month) retail spend of AED 3,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary services, your credit card will be billed with the actual service amount.Click here for the valet parking locations, charges and other Terms &amp; Conditions."
+            },
+            {
+                "title": "Multi trip travel Insurance",
+                "Desc": "Complimentary golf any day of the weekEnjoy two rounds of complimentary golf per month at Arabian Ranches Golf Club, Track Meydan Golf Club, The Trump International Golf Club or Yas Links Golf Club on weekends or weekdays.A minimum monthly (calendar month) retail spend of AED 5,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary golf rounds or no show at the club, your credit card will be billed with the applicable green fee.Click here to book your game, charges and other Terms &amp; Conditions."
+            },
+            {
+                "title": "Meet & Greet Bronze Service",
+                "Desc": "Multi trip travel InsuranceTravel with complete freedom and peace of mind. Your Emirates Islamic Skywards Signature Visa card saves you the time and expense of organizing travel and medical insurance separately when you travel. You are automatically covered for travel accident and travel inconvenience insurance on all trips of up to 90 days duration. Visit to get you travel insurance certificate https://cardholderbenefitsonline.com/."
+            },
+            {
+                "title": "Purchase Protection",
+                "Desc": "Meet &amp; Greet Bronze ServiceEnjoy up to 2 complimentary Marhaba Meet &amp; Greet services per year. A minimum monthly (calendar month) retail spend of AED 3,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary service usage, your credit card will be billed with the applicable service fee. Click here for the Terms &amp; Conditions.Click here to book now!"
+            },
+            {
+                "title": "Extended Warranty",
+                "Desc": "Purchase Protection Purchase protection provides you with additional peace of mind every time you make a purchase. It protects your purchases against theft or damage so you can focus on finding the perfect gift.For more details Click here."
+            },
+            {
+                "title": "Luxury Hotel Collection",
+                "Desc": "Extended Warranty When you buy quality, you expect it to last. That's why we automatically double the original manufacturer's warranty up to one year from the expiry date of the original warranty. For more details, visit www.visamiddleeast.com."
+            },
+            {
+                "title": "Medical and Legal Referral",
+                "Desc": "Luxury Hotel CollectionEnjoy unsurpassed value at over 900 intriguing and prestigious properties around the world with your Emirates Islamic Signature Credit Card. This hand-selected portfolio includes boutique gems as well as world-famous hotels and resorts.Privileges on your card Best available rate guaranteeAutomatic room upgrade upon arrival when availableComplimentary in-room InternetComplimentary continental breakfast3:00 PM check-out when availableVIP Guest statusUS$25 food or beverage voucherFor more details please www.visaluxuryhotels.com ."
+            },
+            {
+                "title": "Complimentary Access to Dubai Ladies Club & Sharjah Ladies Club",
+                "Desc": "Medical and Legal ReferralAccidents and mishaps may happen anytime, anywhere. During these unfortunate events, simply contact the below mentioned numbers and we shall provide you with the medical and legal assistance you may need. We will refer you to physicians, hospitals, clinics, dentists, lawyers or legal practitioners based on your request wherever you may be.UAE: +971 4 361 1234 Outside UAE: +44 (0) 208 762 8373 Customer will have to pay any interpreting fees or related charges for third parties involved."
+            },
+            {
+                "title": "Easy payment plans",
+                "Desc": "Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies ClubYou can avail complimentary access to Dubai Ladies Club &amp; Sharjah Ladies Club in the UAE and enjoy various benefit like Pool &amp; beach access, gym, outdoor activities and more.All you have to do is present your Emirates Islamic Skywards Signature credit card at Dubai Ladies Club &amp; Sharjah Ladies Club at their reception desk. Click here for the Terms &amp; Conditions."
+            },
+            {
+                "title": "Balance transfer facility",
+                "Desc": "Easy payment plansConvert your purchases in to convenient monthly installments by purchasing them through your Emirates Islamic Signature Credit Card. You can avail our easy payment plans of 3, 6, 9, 12 and 24 months once you have made a purchase by simply calling our Call Centre at 600 599 995."
+            },
+            {
+                "title": "Cash on call facility",
+                "Desc": "Balance transfer facility Enjoy 0% profit rate on the outstanding balance of your credit cards from other banks for 6 months by simply transferring it to your Emirates Islamic Signature Credit Card with nothing more than a processing fee. For more details Click here."
+            },
+            {
+                "title": "Supplementary Cards",
+                "Desc": "Cash on call facility With your Emirates Islamic Signature Credit Card you can avail Cash on Call facility of up to 80% of your available credit limit. For more details Click here."
+            },
+            {
+                "title": "Payment options",
+                "Desc": "Supplementary Cards Apply for a supplementary card for your loved ones to share the privileges and benefits offered on your Signature Credit Card.Each Supplementary Card issued under your account allows you to track your expenses and helps you manage your cash flow under simplified billing with a single monthly payment for all cards on the same account.To Apply please call 600 599 995 or visit your nearest Emirates Islamic branch."
+            },
+            {
+                "title": "24-hour customer service facility ",
+                "Desc": "Payment options Choose from the following options to make your Card payments:  Standing instruction to debit your Emirates Islamic Current / Investment savings account  Online payments through Emirates Islamic Online Banking  Cash payments through Emirates Islamic branches or cheque deposit machines  Cash payments through Al Ansari Exchange, Al Fardan Exchange, Al Rostamani Exchange or UAE Exchange branches"
+            }
+        ]
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/EI-flex-elite-550x347.png",
+        "nameOfCard": "Flex Elite",
+        "info": "Up to 3.75 EI SmartMiles per AED 1 spend.Unlimited Complimentary golf any day of the week.Complimentary valet parking services per month.Complimentary unlimited access to over 1,000 airport lounges worldwide with a guest.Use the \"Instant Purchase\" feature to redeem your EI SmartMiles against any purchase, across the globe at any merchant.Redeem your EI SmartMiles at over 300 Airlines and 180,000 hotels worldwide.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/flex-elite-card/",
+        "benefits": [
+            {
+                "title": "EI SmartMiles",
+                "Desc": "Up to 3.75 EI SmartMiles per AED 1 spend."
+            },
+            {
+                "title": "Airport Lounge Access",
+                "Desc": "Complimentary unlimited access at 1000 lounges worldwide for Cardholder and 1 guest."
+            },
+            {
+                "title": "Valet Parking",
+                "Desc": "2 complimentary valet parking service per month."
+            },
+            {
+                "title": "Complimentary Golf",
+                "Desc": "Unlimited rounds of complimentary golf any day of the week."
+            },
+            {
+                "title": "Get the App",
+                "Desc": "Get the AppThe EI Rewards app is available on iOS and Android, scan the QR Code below to access."
+            },
+            {
+                "title": "Welcome Bonus",
+                "Desc": "Welcome BonusWelcome bonus of 75,000 EI SmartMiles upon payment of Annual Fee for the first year."
+            },
+            {
+                "title": "How to earn EI SmartMiles:",
+                "Desc": "How to earn EI SmartMiles:Flex EliteInternational spend*Upto 3.75 EI Smart Miles per AED 1 spendDomestic Spend*Upto 2.5 EI Smart Miles Per AED 1 spend*For more details about EI SmartMiles earning rates please Click here."
+            },
+            {
+                "title": "Travel",
+                "Desc": "What can you do with your EI SmartMiles?TravelInstant EI SmartMiles redemption at over 300 airlines and more than 180,000 hotels worldwide, car rentals and much more starting from as low as 4,000 EI SmartMiles."
+            },
+            {
+                "title": "Miles Exchange",
+                "Desc": "Miles ExchangeSimply exchange your EI SmartMiles with our partner loyalty programmes - Avios with Qatar Airways Privilege Club, Upoints By Emaar, Emirates Skywards, Etisalat Smiles, Etihad Guest and InterMiles.6,500 EI SmartMiles = 1,000 Upoints By Emaar7,500 EI SmartMiles = 5,000 Etisalat Smiles10,000 EI SmartMiles = 1,750 Avios10,000 EI SmartMiles = 1,000 Emirates Skywards Miles10,000 EI SmartMiles = 1,500 Etihad Guest Miles20,000 EI SmartMiles = 4,000 InterMilesYour Miles will be transferred within 5 working days.All you need to do is select the partner program and enter your membership number on the app."
+            },
+            {
+                "title": "Instant Purchase",
+                "Desc": "Instant PurchaseUse the \"Instant Purchase\" feature to redeem your EI SmartMiles against any purchase, across the globe and at any merchant.All you need to do is tap on \"Instant Purchase\" and make a choice. Go ahead &amp; make your transaction using your Flex Elite Card.Within 5 days the EI SmartMiles balance will be deducted from your account and a statement credit will be posted onto your Flex Elite Card."
+            },
+            {
+                "title": "Gift EI SmartMiles",
+                "Desc": "Gift EI SmartMilesGifting has never been easier! The next time you want to pamper a loved one, you can simply Gift them EI SmartMiles with just a few steps and they can redeem it as and when they like. All you need to do is select the \u2018Gift EI SmartMiles\u2019 option and choose the number of EI SmartMiles you\u2019d like to gift and simply share the unique link with another existing EI SmartMiles loyalty member. Once the recipient clicks on the link &amp; accepts, the chosen EI SmartMiles will be deducted from your account and reflect in the receivers account immediately.Click here to see how it works."
+            },
+            {
+                "title": "Online Market Place",
+                "Desc": "Online Market PlaceIndulge in a wide range of shopping options with EI Rewards online market place. Get your hands on the latest fashion, state-of-the-art electronics and more, all from the comfort of your home.You can also choose from our e-vouchers that let you and your loved ones get exactly what you want, anytime and anywhere. Terms and Conditions apply."
+            },
+            {
+                "title": "Airport Lounge Access",
+                "Desc": "Airport Lounge AccessEnjoy unlimited complimentary access to over 1000 airport lounges with a guest.For more details about the Lounge Key program please visit www.loungekey.com/visainfinitemena.Terms &amp; Conditions:1st visit to the Lounge in a calendar year is complimentary.To utilize the subsequent complimentary visits in the same calendar year, customer needs to make a minimum foreign currency spend of USD 1 or equivalent, on both primary &amp; supplementary cards 15 days prior the lounge visit. If the spend criteria is not met then customer will be charged US $27 per usage to the used card.For every accompanying guest (above the 1 guest allowance), cardholders will be charged US $27 per person per visit."
+            },
+            {
+                "title": "Complimentary Valet Parking",
+                "Desc": "Complimentary Valet ParkingEnjoy 2 complimentary valet parking services per month at select locations across the UAE. All you have to do is present your Emirates Islamic Flex Elite card at the valet parking desk.A minimum monthly (calendar month) retail spend of AED 5,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary services, your credit card will be billed with the actual service amount.Click here for the valet parking locations, charges and other Terms &amp; Conditions."
+            },
+            {
+                "title": "Multi Trip Travel Insurance",
+                "Desc": "Multi Trip Travel InsuranceTravel with complete freedom and peace of mind. Your Emirates Islamic Flex Elite (Infinite) Visa credit card saves you the time and expense of organizing travel and medical insurance separately when you travel. You are automatically covered for travel accident and travel inconvenience insurance on all trips of up to 90 days duration. Visit https://cardholderbenefitsonline.com/ to get your travel insurance certificate."
+            },
+            {
+                "title": "Unlimited Complimentary Golf Any Day of the Week",
+                "Desc": "Unlimited Complimentary Golf Any Day of the WeekEnjoy unlimited complimentary golf rounds at Arabian Ranches Golf Club, Track Meydan Golf Club, The Trump International Golf Club or Yas Links Golf Club on weekends or weekdays.A minimum monthly (calendar month) retail spend of AED 10,000 is required on your card to avail the benefit. If the spend criteria is not met or no show at the club, your credit card will be billed with the applicable green fee.Click here to book your game, charges and other Terms &amp; Conditions."
+            },
+            {
+                "title": "Complimentary Reel Cinemas Movie Tickets",
+                "Desc": "Complimentary Reel Cinemas Movie TicketsEnjoy up to 3 \"Buy 1 Get 1\" complimentary movie tickets each month, any day of the week.A minimum monthly (calendar month) retail spend of AED 5,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary tickets usage, your credit card will be billed with the discount availed. For more information on the Reel Cinemas offer, Click here."
+            },
+            {
+                "title": "Meet & Greet Silver Service",
+                "Desc": "Meet &amp; Greet Silver ServiceEnjoy up to 2 complimentary Marhaba Meet &amp; Greet services per year. A minimum monthly (calendar month) retail spend of AED 5,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary service usage, your credit card will be billed with the applicable service fee.Click here for the Terms &amp; Conditions.Click here to book now!"
+            },
+            {
+                "title": "Global Concierge",
+                "Desc": "Global ConciergeYou can avail the Global Concierge facility which provides you with a hosts of services, including flight, hotel and restaurant reservations. You can avail these exclusive host of services over the phone or online, 24 hours a day, from anywhere in the world.Just call the Concierge Service.UAE Toll-free: 800 0441 3487UAE International Direct Dialling: +971 4 361 1234Alternatively, you can send an email to[email\u00a0protected]ignature-mea.com."
+            },
+            {
+                "title": "Enjoy 15% off on Emaar Entertainment Attractions",
+                "Desc": "Enjoy 15% off on Emaar Entertainment AttractionsEnjoy 15% discount on the below Emaar Entertainment Attractions.Dig It - Stay and DigKidZania Abu DhabiKidZania DubaiVR Park \u2013 Pay &amp; PlayEkart Ice Rink The Dubai Fountain BoardwalkClick here to know about Emaar Attractions Term &amp; Conditions."
+            },
+            {
+                "title": "Easy Payment Plans",
+                "Desc": "Easy Payment PlansShop to your heart's content with the 0% Easy Payment Plan. From electronics, telecom, supermarket and jewellery; ask for our Easy Payment Plans of 3, 6, 9 or 12 months when making a purchase at our partner outlets such as Carrefour and Sharaf DG among others."
+            },
+            {
+                "title": "Complimentary Access to Dubai Ladies Club & Sharjah Ladies Club",
+                "Desc": "Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies ClubYou can avail complimentary access to Dubai Ladies Club &amp; Sharjah Ladies Club in the UAE and enjoy various benefit like Pool &amp; beach access, gym, outdoor activities and more.All you have to do is present your Emirates Islamic Flex Elite credit card at Dubai Ladies Club &amp; Sharjah Ladies Club at their reception desk. Click here for the Terms &amp; Conditions."
+            },
+            {
+                "title": "Extended Warranty",
+                "Desc": "Extended Warranty When you buy quality, you expect it to last. That's why we automatically double the original manufacturer's warranty up to one year from the expiry date of the original warranty. For more details, visit www.visamiddleeast.com."
+            }
+        ]
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/Etihad_Guest_Saqer_Credit_Card_550x346.png",
+        "nameOfCard": "Etihad Guest Saqer Credit Card",
+        "info": "Fast-Track Etihad Guest Silver Tier Status.Up to 3 Etihad Guest Miles per USD spent.Choice of two category spends to earn more miles.20% miles back on flight redemptions &amp; upgrades.Complimentary airport transfers, airport lounge access, golf &amp; valet parking.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/etihad-guest-saqer-credit-card/",
+        "benefits": [
+            {
+                "title": "Earn Etihad Guest Miles",
+                "Desc": "Up to 3 Etihad Guest Miles per USD spent."
+            },
+            {
+                "title": "Etihad Guest Silver Tier Status",
+                "Desc": "Fast-Track upgrade to Etihad Guest silver Tier Status."
+            },
+            {
+                "title": "20% Etihad Guest Miles Back",
+                "Desc": "Unlimited 20% miles back on booking/upgrading a flight with Etihad Guest Miles."
+            },
+            {
+                "title": "Airport Transfers",
+                "Desc": "Get 2 complimentary airport transfers to or from Abu Dhabi airport."
+            },
+            {
+                "title": "Welcome Bonus",
+                "Desc": "Welcome BonusWelcome bonus of 30,000 Etihad Guest Miles upon payment of Annual Membership Fee."
+            },
+            {
+                "title": "Etihad Guest Earn Rates",
+                "Desc": "Etihad Guest Earn RatesFor every USD 1 retail spend made using your Emirates Islamic Etihad Guest Card you will earn Etihad Guest Miles as per below.Spend CategoryEarn RatesSpend at Etihad Airline3 Etihad Guest MilesInternational Spend2 Etihad Guest MilesTwo Chosen Categories2.5 Etihad Guest MilesDomestic SpendUp to 1.5 Etihad Guest Miles"
+            },
+            {
+                "title": "Choose your Accelerated Rewards Category",
+                "Desc": "Choose your Accelerated Rewards CategoryEmirates Islamic Etihad Guest Saqer card is the only credit card in the UAE that gives you the freedom of choice to define your preferred categories and earn Etihad Guest Miles on spends made on the same. You can chose your preferred categories from any of the below.Car RentalsDiningHotels SupermarketsYou will earn 2.5 Etihad Guest Miles for every USD 1 spend on the chosen categories. The Etihad Guest Mile earning on the 2 chosen categories is capped at 1,500 Miles per category per month.You also have the option to change your chosen categories every quarter by calling our call center."
+            },
+            {
+                "title": "Earn Tier Miles:",
+                "Desc": "Earn Tier Miles:Earn 1 Etihad Guest Tier Mile for every 1 USD spent internationally on non-AED currency using your card. A maximum of 15,000 Tier Miles can be earned in a membership year."
+            },
+            {
+                "title": "Fast-Track to Etihad Guest Silver Tier Status",
+                "Desc": "Fast-Track to Etihad Guest Silver Tier StatusAs an Emirates Islamic Etihad Guest Saqer Credit Cardholder, you will be eligible for a fast track to Etihad Guest Silver Tier Status, by fulfilling the following condition:Complete 2 return flight or 4 one-way flights on Etihad Airways within the first 6 months of card booking and the tickets should be paid using your Emirates Islamic Etihad Guest Saqer Card. If you are an existing Etihad Guest Gold or Platinum member, your existing tier status will not be affected. For more details about Etihad Guest Silver Tier Status benefits please click here.Etihad Guest Silver Tier Status is available for primary cardholders only. Etihad Guest programme Terms &amp; Conditions will apply."
+            },
+            {
+                "title": "Unlimited 20% Miles back on booking/upgrading a flight with Etihad Guest Miles",
+                "Desc": "Unlimited 20% Miles back on booking/upgrading a flight with Etihad Guest MilesGet 20% of your Etihad Guest Miles back when you book/upgrade a flight using your Etihad Guest Miles. There is no maximum limit on the Miles received per year.Miles will be credited to the customer\u2019s Etihad Guest account within 15 working days.Miles back offer will be applicable only on the airfare ticket redemption and not for the airport taxes redemption."
+            },
+            {
+                "title": "Complimentary Inflight wifi vouchers",
+                "Desc": "Complimentary Inflight wifi vouchersEnjoy 2 complimentary wifi vouchers every membership year. You will receive 1 wi-fi voucher on every transaction of AED 500 or more made on Etihad airways (etihad.com, Etihad branches or the Etihad call center); capped at 4 vouchers per annum.Each voucher is valid for 1 year and can only be used once. The voucher will be sent to you by Etihad Guest via email within 10 days of meeting the spend criteria."
+            },
+            {
+                "title": "Complimentary Airport Transfers",
+                "Desc": "Complimentary Airport TransfersTake advantage of up to 2 complimentary airport transfers per calendar year to or from Abu Dhabi airport.Benefit available only when Etihad airways transaction is done using Emirates Islamic Etihad Guest Credit Card, within the last 3 months. If the spend criteria is not met or on exceeding the maximum complimentary transfer services, a flat fee of AED 150 (within Abu Dhabi) and AED 350 (any other locations) per extra service will be charged to your credit card.Click here to know more about the eligibility criteria and the booking process."
+            },
+            {
+                "title": "0% Easy Payment Plan on Etihad purchases",
+                "Desc": "0% Easy Payment Plan on Etihad purchasesConvert your purchases made at etihad.com into convenient monthly installments, of 3 or 6 months. Processing fee of 2% will be applied."
+            },
+            {
+                "title": "Complimentary Lounge Access",
+                "Desc": "Complimentary Lounge AccessEnjoy unlimited complimentary access to over 1000 airport lounges.For more details about the Lounge Key program please visit www.loungekey.com/visasignaturemena.Terms &amp; Conditions:1st visit to the Lounge in a calendar year is complimentary.To utilize the subsequent complimentary visits in the same calendar year, customer needs to make a minimum foreign currency spend of USD 1 or equivalent, on both primary &amp; supplementary cards 15 days prior the lounge visit . If the spend criteria is not met then customer will be charged US $27 per usage to the used card.For every accompanying guest, cardholders will be charged US $27 per person per visit."
+            },
+            {
+                "title": "Complimentary golf any day of the week",
+                "Desc": "Complimentary golf any day of the weekEnjoy two rounds of complimentary golf per month at Arabian Ranches Golf Club, Track Meydan Golf Club, The Trump International Golf Club or Yas Links Golf Club on weekends or weekdays.A minimum monthly (calendar month) retail spend of AED 5,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary golf rounds or no show at the club, your credit card will be billed with the applicable green fee.Click here to book your game, charges and other Terms &amp; Conditions."
+            },
+            {
+                "title": "Meet & Greet Service",
+                "Desc": "Meet &amp; Greet ServiceEnjoy up to 2 complimentary Marhaba Silver Meet &amp; Greet(Dubai) OR Meet &amp; Assist Basic(Abu Dhabi) services per year. A minimum monthly (calendar month) retail spend of AED 3,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary service usage, your credit card will be billed with the applicable service fee. Click here for the Terms &amp; Conditions.Click here to book now!"
+            },
+            {
+                "title": "Multi trip travel Insurance",
+                "Desc": "Multi trip travel InsuranceTravel with complete freedom and peace of mind. Your Emirates Islamic Etihad Guest Visa Signature card saves you the time and expense of organizing travel and medical insurance separately when you travel. You are automatically covered for travel accident and travel inconvenience insurance on all trips of up to 90 days duration. Visit to get you travel insurance certificate https://cardholderbenefitsonline.com/."
+            },
+            {
+                "title": "Extended Warranty",
+                "Desc": "Extended Warranty When you buy quality, you expect it to last. That's why we automatically double the original manufacturer's warranty up to one year from the expiry date of the original warranty. For more details, visit www.visamiddleeast.com."
+            },
+            {
+                "title": "Global Assistance",
+                "Desc": "Global AssistanceNo matter where you are in the world, VISA International multilingual service representatives are on hand to assist you 24 hours a day, 365 days a year. If your Visa Signature card has been lost or stolen, Visa Global Customer Assistance Services representatives can help. For help, call 8000-021 866-654-0112 from inside UAE or +1 303 967 1090* from outside UAE."
+            },
+            {
+                "title": "Earn 50% cashback on Movies",
+                "Desc": "Earn 50% cashback on MoviesEnjoy movie nights even more by getting 50% cashback on Cinema tickets, any day of the week.The maximum cashback a cardholder can earn is AED 75 per month.Cardholders can purchase tickets from any cinema hall, for any class &amp; on any day of the week.Terms &amp; Conditions:Cashback will be credited to your account with 5 working days from the transaction date.Movie spends will be determined basis Merchant code 7832, as defined by VISA. This code can be changed by VISA at any time, without prior notice and will be updated on our system accordingly."
+            },
+            {
+                "title": "Complimentary Valet Parking",
+                "Desc": "Complimentary Valet ParkingEnjoy 1 complimentary valet parking services per month at select locations across the UAE. All you have to do is present your Emirates Islamic Etihad Guest Saqer card at the valet parking desk.A minimum monthly (calendar month) retail spend of AED 3,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary services, your credit card will be billed with the actual service amount.Click here for the valet parking locations, charges and other Terms &amp; Conditions."
+            },
+            {
+                "title": "Purchase Protection",
+                "Desc": "Purchase ProtectionPurchase protection provides you with additional peace of mind every time you make a purchase. It protects your purchases against theft or damage so you can focus on finding the perfect gift. For more details Click here."
+            },
+            {
+                "title": "Balance Transfer Facility",
+                "Desc": "Balance Transfer FacilityNow you can really save big time with your Etihad Guest Visa Signature Credit Card balance transfer facility. You have the opportunity to pay off balances you owe to other banks through your Etihad Guest Visa Signature Credit Card, with no profit charged on the balance transferred."
+            },
+            {
+                "title": "Cash Advance",
+                "Desc": "Cash AdvanceYou can now withdraw cash as per Bank's policy through your Etihad Guest Visa Signature Credit Card's instant cash advance facility from any Emirates Islamic branch and at more than 780,000 ATMs, exchange houses and financial institutions worldwide displaying the VISA logo. Cash advance fee will apply and no Etihad Guest Miles are granted against cash advance."
+            },
+            {
+                "title": "Global Concierge",
+                "Desc": "Global ConciergeTake advantage of a host of services including and not limited to flight/hotel/restaurant reservations available to you over the phone or online, 24 hours a day, from anywhere in the world by simply calling Concierge hotlines. UAE Toll-free: 800 0441 3487 , UAE International Direct Dialing: +971 4361 1234 Alternatively, you can send an email to [email\u00a0protected]."
+            },
+            {
+                "title": "Complimentary Access to Dubai Ladies Club & Sharjah Ladies Club",
+                "Desc": "Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies ClubYou can avail complimentary access to Dubai Ladies Club &amp; Sharjah Ladies Club in the UAE and enjoy various benefit like Pool &amp; beach access, gym, outdoor activities and more.All you have to do is present your Emirates Islamic Etihad Guest Saqer credit card at Dubai Ladies Club &amp; Sharjah Ladies Club at their reception desk. Click here for the Terms &amp; Conditions."
+            }
+        ]
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/Skywards_black_Credit_Card_550x346.png",
+        "nameOfCard": "Skywards Black",
+        "info": "Up to 3.5 Skywards Miles per USD spent.Automatic upgrade to Emirates Skywards Silver membership.Fast Track to Emirates Skywards Gold Tier Membership.Skywards Gold Tier Membership for Supplementary Cardholder.25% discount on Skywards \u2018Buy Miles\u2019 and \u2018Gift Miles\u2019.Unlimited Complimentary golf any day of the week.3 complimentary valet parking services per month.Unlimited complimentary access to over 1000+ airport lounges with a guest.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/skywards-black-credit-card/",
+        "benefits": [
+            {
+                "title": "Earn Skywards Miles",
+                "Desc": "Up to 3.5 Skywards Miles per USD equivalent spend."
+            },
+            {
+                "title": "Emirates Skywards Gold Tier Membership",
+                "Desc": "Fast Track to Emirates Skywards Gold Tier Membership."
+            },
+            {
+                "title": "Lounge Access",
+                "Desc": "Unlimited Complimentary access to 1000+ airport lounges for cardholder and 1 guest with LoungeKey."
+            },
+            {
+                "title": "Welcome Bonus Promotion",
+                "Desc": "Get up to 100,000 bonus Skywards Miles. For more details"
+            },
+            {
+                "title": "Complimentary Emirates Skywards Silver Tier Membership*",
+                "Desc": "."
+            },
+            {
+                "title": "Fast Track to Emirates Skywards Gold Tier Membership*",
+                "Desc": "Complimentary Emirates Skywards Silver Tier Membership*As an Emirates Islamic Skywards Black Credit Cardholder enjoy the Emirates Skywards Silver membership, offering exclusive benefits like:Bonus Tier MilesExtra baggage allowancePriority check-in and many moreEmirates Skywards Silver Tier membership is available for as long as the Emirates Islamic Skywards Black Card is active. Emirates Skywards Programme Rules apply. If you are an existing Emirates Skywards Platinum or Gold member, your existing membership status will not be affected. For more details about Emirates Skywards Silver Membership benefits Click here."
+            },
+            {
+                "title": "Complimentary Lounge Access",
+                "Desc": "Fast Track to Emirates Skywards Gold Tier Membership*As an Emirates Islamic Skywards Black Credit Cardholder, you can fast track to Skywards Gold Tier status with a minimum spend of AED 5,500 on Emirates Airline within 12 months from the Card Issuance date. Flight ticket/upgrade purchases made at emirates.com, Emirates Sales offices or Emirates Contact Centre will only be eligible for the fast track offer.The Gold Membership will be valid for a period of 12 months from the enrollment date. For subsequent years, customer needs to meet the above mentioned criteria to continue enjoying the Gold Membership for the respective year.For Existing Emirates Skywards Gold tier members, the validity of the existing membership will be extended by 12 months. If you are an existing Skywards Platinum member, your existing membership status will not be affected. For more details about Emirates Skywards Gold Membership benefits Click here."
+            },
+            {
+                "title": "Complimentary Airport Transfers",
+                "Desc": "Complimentary Lounge AccessEnjoy unlimited complimentary access for the cardholder and one guest to over 1000 airport lounges. Click here\u00a0to know about the eligibility criteria."
+            },
+            {
+                "title": "Skywards Gold Tier Membership for Supplementary Cardholder*",
+                "Desc": "Complimentary Airport TransfersTake advantage of up to 4 complimentary airport transfers per calendar year to or from Dubai airport.Benefit available only when Emirates airways transaction is done using Emirates Islamic Skywards Black Credit Card, within the last 3 months. If the spend criteria is not met or on exceeding the maximum complimentary transfer services, a flat fee of AED 150 (within Dubai) and AED 350 (any other locations) per extra service will be charged to your credit card.Click here to know more about the eligibility criteria and the booking process."
+            },
+            {
+                "title": "25% discount on Skywards 'Buy Miles' and 'Gift Miles'*",
+                "Desc": "Skywards Gold Tier Membership for Supplementary Cardholder*The Emirates Skywards Gold membership is available for one supplementary cardholder per primary cardholder. All you need to do is spend an additional minimum amount of AED 5,500 at Emirates and pay an Annual Membership Fee of AED 4,000 for your Supplementary Card.The Gold membership will be valid for a period of 1 year. To retain Gold status, the above criteria needs to be followed or the member needs to qualify as per the Emirates Skywards Programme Rules.Customers can opt for the above criteria or simply take a supplementary card without any Tier Membership."
+            },
+            {
+                "title": "Complimentary VOX Movie Tickets",
+                "Desc": "25% discount on Skywards 'Buy Miles' and 'Gift Miles'*The Emirates Islamic Skywards Black Credit Card offers you a 25% discount when you buy or gift Skywards Miles.Skywards Miles can be purchased online by visiting emirates.com/ae. You need to log-in to your Emirates Skywards account and follow the Buy Miles process or the Gift Miles process.The 25% discount will automatically be added when you check-out to pay for the Miles, as long as you are logged in to your Skywards Account and pay with your Emirates Islamic Skywards Black Credit Card. Please allow 10 days from the card issuance date for the offer to be applied on your card."
+            },
+            {
+                "title": "Unlimited complimentary golf any day of the week",
+                "Desc": "Complimentary VOX Movie TicketsEnjoy up to 4 \"Buy 1 Get 1\" complimentary movie tickets each month, any day of the week.A minimum monthly (calendar month) retail spend of AED 5,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary tickets usage, your credit card will be billed with the discount availed. For more information on the Vox Cinemas offer, Click here."
+            },
+            {
+                "title": "Complimentary Valet Parking",
+                "Desc": "Unlimited complimentary golf any day of the weekEnjoy unlimited complimentary golf rounds at Arabian Ranches Golf Club, Track Meydan Golf Club, The Trump International Golf Club or Yas Links Golf Club on weekends or weekdays.A minimum monthly (calendar month) retail spend of AED 10,000 is required on your card to avail the benefit. If the spend criteria is not met or no show at the club, your credit card will be billed with the applicable green fee.Click here to book your game, charges and other Terms &amp; Conditions.*Emirates Skywards Programme Rules apply."
+            },
+            {
+                "title": "Meet & Greet Silver Service",
+                "Desc": "Complimentary Valet ParkingEnjoy 3 complimentary valet parking services per month at select locations across the UAE. All you have to do is present your Emirates Islamic Skywards Black card at the valet parking desk.A minimum monthly (calendar month) retail spend of AED 5,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary services, your credit card will be billed with the actual service amount. Click here for the valet parking locations, charges and other Terms &amp; Conditions."
+            },
+            {
+                "title": "0% Easy Payment Plan on Emirates Airlines purchases",
+                "Desc": "Meet &amp; Greet Silver ServiceEnjoy up to 2 complimentary Marhaba Meet &amp; Greet services per year. A minimum monthly (calendar month) retail spend of AED 5,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary service usage, your credit card will be billed with the applicable service fee.Click here for the Terms &amp; Conditions.Click here to book now!"
+            },
+            {
+                "title": "Purchase Protection",
+                "Desc": "0% Easy Payment Plan on Emirates Airlines purchasesConvert your purchases made at emirates.com into convenient monthly installments of 3 months."
+            },
+            {
+                "title": "Multi Trip Travel Insurance",
+                "Desc": "Purchase ProtectionPurchase protection provides you with additional peace of mind every time you make a purchase.It protects your purchases against theft or damage so you can focus on finding the perfect gift. For more details, visit www.visamiddleeast.com."
+            },
+            {
+                "title": "Balance Transfer Facility",
+                "Desc": "Multi Trip Travel InsuranceTravel with convenience and complete peace of mind. Your Emirates Islamic Credit Card allows you to save time and the expense of organising travel and medical insurance separately for your travel. All you need to do is pay for your travel with your card and you get automatically covered for travel accident and travel inconvenience insurance.Details of coverage:Personal accident benefits up to USD 1,000,000 (International)Personal accident benefits up to USD 100,000 (Domestic)Baggage delay up to USD 500Loss of personal belongings up to USD 2,500Covers cardholder, spouse and up to 5 children; age limit of 75 for allFor more information, please visit cardholderbenefitsonline.com."
+            },
+            {
+                "title": "Global Assistance",
+                "Desc": "Balance Transfer FacilityNow you can really save big time with your Emirates Islamic Skywards Black Credit Card balance transfer facility. You have the opportunity to pay off balances you owe to other banks through your Emirates Islamic Skywards Black Credit Card, with no profit charged on the balance transferred."
+            },
+            {
+                "title": "Extended Warranty",
+                "Desc": "Global AssistanceNo matter where you are in the world, VISA International multilingual service representatives are on hand to assist you 24 hours a day, 365 days a year. If your Visa Infinite card has been lost or stolen, Visa Global Customer Assistance Services representatives can help. For help, call 8000-021 866-654-0112 from inside UAE or +1 303 967 1090 from outside UAE."
+            },
+            {
+                "title": "Exclusive Visa Infinite Offers",
+                "Desc": "Extended Warranty When you buy quality, you expect it to last. That's why we automatically double the original manufacturer's warranty up to one year from the expiry date of the original warranty. For more details, visit www.visamiddleeast.com."
+            },
+            {
+                "title": "Cash Advance",
+                "Desc": "Exclusive Visa Infinite OffersWe have partnered with VISA International to bring you exclusive discounts and special offers. Your Skywards Visa Infinite Credit Card privileges connect you to a world of ever changing luxury. For assistance please visit www.visainfinitecard.com."
+            },
+            {
+                "title": "Global Concierge",
+                "Desc": "Cash AdvanceYou can now withdraw cash as per Bank's policy through your Emirates Islamic Skywards Black Credit Card's instant cash advance facility from any Emirates Islamic branch and at more than 780,000 ATMs, exchange houses and financial institutions worldwide displaying the VISA logo. Cash advance fee will apply and Skywards Miles are not awarded against cash advances."
+            },
+            {
+                "title": "Complimentary Access to Dubai Ladies Club & Sharjah Ladies Club",
+                "Desc": "Global ConciergeTake advantage of a host of services including and not limited to flight/hotel/restaurant reservations available to you over the phone or online, 24 hours a day, from anywhere in the world by simply calling Concierge hotlines. UAE Toll-free: 800 0441 3487 , UAE International Direct Dialing: +9714 436 7222 OR +1 773 360 5320. Alternatively, you can send an email to [email\u00a0protected]"
+            }
+        ]
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/EI_Cards_Infinite_550x346.png",
+        "nameOfCard": "Skywards Infinite",
+        "info": "Automatic upgrade to Emirates Skywards Silver membership.Unlimited Complimentary golf any day of the week.2 complimentary valet parking services per month.Unlimited complimentary access to over 1000+ airport lounges with a guest.Up to 2 Skywards Miles per USD spent.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/infinite-credit-card/",
+        "benefits": [
+            {
+                "title": "Earn Skywards Miles",
+                "Desc": "Up to 2 Skywards Miles per USD spent."
+            },
+            {
+                "title": "Skywards Silver Membership",
+                "Desc": "Automatic upgrade to Emirates Skywards Silver membership."
+            },
+            {
+                "title": "Lounge Access",
+                "Desc": "Unlimited complimentary access to over 1000+ airport lounges."
+            },
+            {
+                "title": "Welcome Bonus Promotion",
+                "Desc": "Get up to 75,000 bonus Skywards Miles. For more details"
+            },
+            {
+                "title": "Complimentary Lounge Access",
+                "Desc": "."
+            },
+            {
+                "title": "Complimentary Reel Cinemas Movie Tickets",
+                "Desc": "Complimentary Lounge AccessEnjoy unlimited complimentary access to over 1000 airport lounges with a guest.For more details about the Lounge Key program please visit www.loungekey.com/visainfinitemena.Terms &amp; Conditions:1st visit to the Lounge in a calendar year is complimentary.To utilize the subsequent complimentary visits in the same calendar year, customer needs to make a minimum foreign currency spend of USD 1 or equivalent, on both primary &amp; supplementary cards 15 days prior the lounge visit. If the spend criteria is not met then customer will be charged US $27 per usage to the used card.For every accompanying guest (above the 1 guest allowance), cardholders will be charged US $27 per person per visit."
+            },
+            {
+                "title": "Enjoy 15% off on Emaar Entertainment Attractions",
+                "Desc": "Complimentary Reel Cinemas Movie TicketsEnjoy up to 3 \"Buy 1 Get 1\" complimentary movie tickets each month, any day of the week.A minimum monthly (calendar month) retail spend of AED 5,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary tickets usage, your credit card will be billed with the discount availed.For more information on the Reel Cinemas offer, Click here."
+            },
+            {
+                "title": "Complimentary Valet Parking",
+                "Desc": "Enjoy 15% off on Emaar Entertainment AttractionsEnjoy 15% discount on the below Emaar Entertainment Attractions.Dig It - Stay and DigKidZania Abu DhabiKidZania DubaiVR Park \u2013 Pay &amp; PlayEkart Ice Rink The Dubai Fountain BoardwalkClick here to know about Emaar Attractions Term &amp; Conditions."
+            },
+            {
+                "title": "Unlimited complimentary golf any day of the week",
+                "Desc": "Complimentary Valet ParkingEnjoy 2 complimentary valet parking services per month at select locations across the UAE. All you have to do is present your Emirates Islamic Skywards Infinite card at the valet parking desk.A minimum monthly (calendar month) retail spend of AED 5,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary services, your credit card will be billed with the actual service amount.Click here for the valet parking locations, charges and other Terms &amp; Conditions."
+            },
+            {
+                "title": "Balance Transfer Facility",
+                "Desc": "Unlimited complimentary golf any day of the weekEnjoy unlimited complimentary golf rounds at Arabian Ranches Golf Club, Track Meydan Golf Club, The Trump International Golf Club or Yas Links Golf Club on weekends or weekdays.A minimum monthly (calendar month) retail spend of AED 10,000 is required on your card to avail the benefit. If the spend criteria is not met or no show at the club, your credit card will be billed with the applicable green fee.Click here to book your game, charges and other Terms &amp; Conditions."
+            },
+            {
+                "title": "Multi trip travel Insurance",
+                "Desc": "Balance Transfer FacilityNow you can really save big time with your Skywards Infinite Credit Card balance transfer facility. You have the opportunity to pay off balances you owe to other banks through your Skywards Infinite Credit Card, with no profit charged on the balance transferred *."
+            },
+            {
+                "title": "Complimentary Emirates Skywards Silver Membership",
+                "Desc": "Multi trip travel InsuranceTravel with complete freedom and peace of mind. Your Emirates Islamic Skywards Infinite Visa card saves you the time and expense of organizing travel and medical insurance separately when you travel. You are automatically covered for travel accident and travel inconvenience insurance on all trips of up to 90 days duration. Visit to get you travel insurance certificate https://cardholderbenefitsonline.com/."
+            },
+            {
+                "title": "Meet & Greet Silver Service",
+                "Desc": "Complimentary Emirates Skywards Silver MembershipAs a Emirates Islamic Skywards Infinite Credit Cardholder enjoy the Emirates Skywards Silver membership, offering exclusive benefits like;Bonus Tier MilesExtra baggage allowancePriority check-in and many moreThe Silver tier membership is available for life as long as the card is active. The benefit will continue as per Skywards Terms and Conditions. If you are an existing Skywards Gold or Silver member, your existing membership status will not be affected. For more details about Emirates Skywards Silver Membership benefits please visit http://www.emirates.com/english/skywards/about/membership-tiers/membership-benefits.aspx."
+            },
+            {
+                "title": "Purchase Protection",
+                "Desc": "Meet &amp; Greet Silver ServiceEnjoy up to 2 complimentary Marhaba Meet &amp; Greet services per year. A minimum monthly (calendar month) retail spend of AED 5,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary service usage, your credit card will be billed with the applicable service fee.Click here for the Terms &amp; Conditions.Click here to book now!"
+            },
+            {
+                "title": "Extended Warranty",
+                "Desc": "Purchase ProtectionWhen paying with your Emirates Islamic Skywards Infinite card, you will benefit from Purchase Protection for lost, stolen or damaged goods purchased. Enjoy a coverage of USD 7,500 per occurrence &amp; USD 20,000 per year.For further assistance, please call one of the numbers: Toll-free: 800 0441 3487 or +971 4 361 1234. For more details about the service terms and conditions please visit https://cardholderbenefitsonline.com/."
+            },
+            {
+                "title": "Global Assistance",
+                "Desc": "Extended WarrantyWhen you buy quality, you expect it to last. That's why we automatically double the original manufacturer's warranty up to one year from the expiry date of the original warranty. For more details, visit www.visamiddleeast.com."
+            },
+            {
+                "title": "Exclusive Visa Infinite Offers",
+                "Desc": "Global AssistanceNo matter where you are in the world, VISA International multilingual service representatives are on hand to assist you 24 hours a day, 365 days a year. If your Visa Infinite card has been lost or stolen, Visa Global Customer Assistance Services representatives can help. For help, call 8000-021 866-654-0112 from inside UAE or +1 303 967 1090* from outside UAE."
+            },
+            {
+                "title": "Cash Advance",
+                "Desc": "Exclusive Visa Infinite OffersWe have partnered with VISA International to bring you exclusive discounts and special offers. Your Skywards Infinite Credit Card privileges connect you to a world of even changing luxury. For assistance please visit www.visainfinitecard.com."
+            },
+            {
+                "title": "Global Concierge",
+                "Desc": "Cash AdvanceYou can now withdraw cash as per Bank's policy through your Skywards Infinite Credit Card's instant cash advance facility from any Emirates Islamic branch and at more than 780,000 ATMs, exchange houses and financial institutions worldwide displaying the VISA logo. Cash advance fee will apply and no Skywards Miles are granted against cash advance."
+            },
+            {
+                "title": "Complimentary Access to Dubai Ladies Club & Sharjah Ladies Club",
+                "Desc": "Global ConciergeTake advantage of a host of services including and not limited to flight/hotel/restaurant reservations available to you over the phone or online, 24 hours a day, from anywhere in the world by simply calling Concierge hotlines. UAE Toll-free: 800 0441 3487 , UAE International Direct Dialing: +9714 436 7222 OR +1 773 360 5320 Alternatively, you can send an email to [email\u00a0protected]."
+            }
+        ]
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/EI-flex-card-550x347.png",
+        "nameOfCard": "Flex",
+        "info": "Up to 2.25 EI SmartMiles per AED 1 spend.Use the \"Instant Purchase\" feature to redeem your EI SmartMiles against any purchase, across the globe at any merchant.Redeem your EI SmartMiles at over 300 Airlines and 180,000 hotels worldwide.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/flex-card/",
+        "benefits": [
+            {
+                "title": "Welcome Bonus",
+                "Desc": "Welcome bonus of 10,000 EI SmartMiles."
+            },
+            {
+                "title": "EI SmartMiles",
+                "Desc": "Up to 2.25 EI SmartMiles per AED 1 spend."
+            },
+            {
+                "title": "Instant Purchase",
+                "Desc": "Use the \"Instant Purchase\" feature to redeem your EI SmartMiles against any purchase, across the globe at any merchant."
+            },
+            {
+                "title": "Easy Redemption",
+                "Desc": "Redeem your EI SmartMiles at over 300 Airlines and 180,000 hotels worldwide."
+            },
+            {
+                "title": "Get the App",
+                "Desc": "Get the AppThe EI Rewards app is available on iOS and Android, scan the QR Code below to access."
+            },
+            {
+                "title": "Welcome Bonus",
+                "Desc": "Welcome BonusWelcome bonus of 10,000 EI SmartMiles."
+            },
+            {
+                "title": "How to earn EI SmartMiles:",
+                "Desc": "How to earn EI SmartMiles:FlexInternational spend*Upto 2.25 EI Smart Miles per AED 1 spendDomestic Spend*Upto 1.25 EI Smart Miles Per AED 1 spend*For more details about EI SmartMiles earning rates please Click here."
+            },
+            {
+                "title": "Travel",
+                "Desc": "What can you do with your EI SmartMiles?TravelInstant EI SmartMiles redemption at over 300 airlines and more than 180,000 hotels worldwide, car rentals and much more starting from as low as 4,000 EI SmartMiles."
+            },
+            {
+                "title": "Miles Exchange",
+                "Desc": "Miles ExchangeSimply exchange your EI SmartMiles with our partner loyalty programmes - Avios with Qatar Airways Privilege Club, Upoints By Emaar, Emirates Skywards, Etisalat Smiles, Etihad Guest and InterMiles.6,500 EI SmartMiles = 1,000 Upoints By Emaar7,500 EI SmartMiles = 5,000 Etisalat Smiles10,000 EI SmartMiles = 1,750 Avios10,000 EI SmartMiles = 1,000 Emirates Skywards Miles10,000 EI SmartMiles = 1,500 Etihad Guest Miles20,000 EI SmartMiles = 4,000 InterMilesYour Miles will be transferred within 5 working days.All you need to do is select the partner program and enter your membership number on the app."
+            },
+            {
+                "title": "Instant Purchase",
+                "Desc": "Instant PurchaseUse the \"Instant Purchase\" feature to redeem your EI SmartMiles against any purchase, across the globe and at any merchant.All you need to do is tap on \"Instant Purchase\" and make a choice. Go ahead &amp; make your transaction using your Flex Card.Within 5 days the EI SmartMiles balance will be deducted from your account and a statement credit will be posted onto your Flex Card."
+            },
+            {
+                "title": "Gift EI SmartMiles",
+                "Desc": "Gift EI SmartMilesGifting has never been easier! The next time you want to pamper a loved one, you can simply Gift them EI SmartMiles with just a few steps and they can redeem it as and when they like. All you need to do is select the \u2018Gift EI SmartMiles\u2019 option and choose the number of EI SmartMiles you\u2019d like to gift and simply share the unique link with another existing EI SmartMiles loyalty member. Once the recipient clicks on the link &amp; accepts, the chosen EI SmartMiles will be deducted from your account and reflect in the receivers account immediately.Click here to see how it works."
+            },
+            {
+                "title": "Online Market Place",
+                "Desc": "Online Market PlaceIndulge in a wide range of shopping options with EI Rewards online market place. Get your hands on the latest fashion, state-of-the-art electronics and more, all from the comfort of your home.You can also choose from our e-vouchers that let you and your loved ones get exactly what you want, anytime and anywhere. Terms and Conditions apply."
+            },
+            {
+                "title": "Extended Warranty ",
+                "Desc": "Extended Warranty When you buy quality, you expect it to last. That's why we automatically double the original manufacturer's warranty up to one year from the expiry date of the original warranty. For more details, visit www.visamiddleeast.com."
+            },
+            {
+                "title": "Luxury Hotel Collection",
+                "Desc": "Luxury Hotel CollectionEnjoy unsurpassed value at over 900 intriguing and prestigious properties around the world with your Emirates Islamic Flex Credit Card. This hand-selected portfolio includes boutique gems as well as world-famous hotels and resorts.Privileges on your card:Best available rate guaranteeAutomatic room upgrade upon arrival when availableComplimentary in-room InternetComplimentary continental breakfast3:00 PM check-out when availableVIP Guest statusUS$25 food or beverage voucherFor more details please click here."
+            },
+            {
+                "title": "Xperience with the ENTERTAINER",
+                "Desc": "Xperience with the ENTERTAINERWith Visa, you can get 2-for-1 at your favourite outletsxperience with the ENTERTAINER is the latest offering from Visa. Unlock 2-for-1 on your favourite dining, beauty and fitness outlets. Download the app from your app store."
+            },
+            {
+                "title": "Complimentary Reel Cinemas Movie Tickets",
+                "Desc": "Complimentary Reel Cinemas Movie TicketsEnjoy up to 2 \"Buy 1 Get 1\" complimentary movie tickets each month, any day of the week.A minimum monthly (calendar month) retail spend of AED 3,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary tickets usage, your credit card will be billed with the discount availed.For more information on the Reel Cinemas offer, Click here."
+            },
+            {
+                "title": "Enjoy 15% off on Emaar Entertainment Attractions",
+                "Desc": "Enjoy 15% off on Emaar Entertainment AttractionsEnjoy 15% discount on the below Emaar Entertainment Attractions.Dig It - Stay and DigKidZania Abu DhabiKidZania DubaiVR Park \u2013 Pay &amp; PlayEkart Ice Rink The Dubai Fountain BoardwalkClick here to know about Emaar Attractions Term &amp; Conditions."
+            },
+            {
+                "title": "Cash on Call Facility",
+                "Desc": "Cash on Call FacilityWith your Emirates Islamic Flex Credit Card you can avail Cash on Call facility of up to 80% of your available credit limit. For more details click here."
+            },
+            {
+                "title": "Balance Transfer",
+                "Desc": "Balance TransferTransfer the outstanding balance of your Card from other banks to your Emirates Islamic Flex Credit Card."
+            },
+            {
+                "title": "Easy Payment Plans",
+                "Desc": "Easy Payment PlansShop to your heart's content with the 0% Easy Payment Plan. From electronics, telecom, supermarket and jewellery; ask for our Easy Payment Plans of 3, 6, 9 or 12 months when making a purchase at our partner outlets such as Carrefour and Sharaf DG among others. For more details click here."
+            }
+        ]
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/EI-RTA-card-550x348.png",
+        "nameOfCard": "RTA",
+        "info": "10% cash back on fuel spends.10% cash back on RTA transport payments.Up to 2.25% cash back on international spends.Up to 1.25% cash back on all other spends.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/rta-credit-card/",
+        "benefits": [
+            {
+                "title": "Fuel Spends",
+                "Desc": "Get 10% Cashback on Fuel Spends."
+            },
+            {
+                "title": "RTA Transport Payments",
+                "Desc": "Get 10% Cashback on RTA Transport Payment."
+            },
+            {
+                "title": "Guaranteed Cashback on all spends",
+                "Desc": "Earn up to 2.25% cashback per AED 1 Spend."
+            },
+            {
+                "title": "NOL Card",
+                "Desc": "Built in Nol card for easy access and payments on RTA transport network."
+            },
+            {
+                "title": "Nol Top up",
+                "Desc": "Nol Top upThe Nol Chip balance will reduce with regular usage at Parking Meters or on the RTA transit network. Your Card comes with convenient topup options to recharge your linked Nol Chip.a. Activate the Auto top-up facilityNow there is no need to queue up at RTA stations or even remember to make a payment towards recharging your Nol Chip. Simply, activate the Auto top-up facility on your Emirates Islamic RTACredit Cards.The Auto top-up facility recharges your Nol Chip linked to the Card, with the specified amount, every time it reduces to a threshold of AED 20 for the Platinum Card.Auto top-up is initiated for the amount as specified by you at the time of application.In case you have not requested for Auto top-up at the time of application and you wish to enable Auto top up, please call us on 600 599 995 and we will help you activate the facility. Please note that a new card will be issued and a replacement fee will be applicable as per the Schedule of Charges.Auto top-up plansYou may choose the Auto top-up amount from any of the below plans:Plan 1: AED 50Plan 2: AED 100Plan 3: AED 200The Auto top-up option will take the payment from your Credit card, therefore your credit limit is utilized. All Auto top-ups are included in your monthly Credit Card statement.ImportantThe Auto top-up amount reflects on the Nol Chip on either tapping the Card at the RTA Metro gate or inserting the Card in any of the Parking Meters.After the Auto top-up is initiated, it could take up to 24 hours for the balance to reflect on your Nol Chip.RTA allows a maximum stored value of AED 500 on the Nol Chip. The top-up amount reflects in the Nol balance only if the limit can accommodate the top-up amount, else it is placed on holduntil the Nol limit gets released. Auto top up cancellationYou may call our customer service helpline on 600 599 995 or visit any of the RTA ticket offices (at Metro Stations to request for cancellation of Auto top-up facility on your Card. Your Card will be replaced with a new Card and a replacement fee will be applicable as stated in Emirates Islamic Service and Price Guide. b. Use any of the Manual top-up channelsYou may also top-up your Emirates Islamic RTA Credit Card manually. This can be conveniently done through any of the following channels:Emirates Islamic channelsAutomated Teller Machines (ATMs)Cash Deposit Machines (CDMs)Internet BankingIntegrated Voice Recording service (IVR) on Customer Service helplineEI Mobile BankingRTA LocationsTicket Offices (at Metro stations or select Bus stations)Ticket Vending Machines (at Metro Stations and Bus Stops)RTA Customer Service CentresRTA Authorised Sales Agents (e.g. Carrefour, Spinneys, Waitrose, Redha Al Ansari, Geant, EPPCO, ENOC)Please visit www.rta.ae for the latest list of locations."
+            },
+            {
+                "title": "Using Your Card",
+                "Desc": "Using Your Card You can use your Emirates Islamic RTA Credit Card like the RTA Nol Card (for making fare payments on the RTA transit network and Parking Meters), as well as a Credit Card (for making purchases and cash withdrawals). The Nol Tag ID stored on the Nol chip in the cardand the Credit Card account are separate but available on the same Card, giving you the convenience of carrying a single Card."
+            },
+            {
+                "title": "Security on your card",
+                "Desc": "Security on your card The \"Nol Chip\" and \"Credit Card Account\" on your Card are separate. They are securely linked for top-ups only as authorised by you."
+            },
+            {
+                "title": "Activate Salik Auto top up facility ",
+                "Desc": "Activate Salik Auto top up facility Your Emirates Islamic RTA Credit Card provides the most convenient option for Salik Auto top up. By activating the facility, youdo not have to remember to recharge your Salik account when the SMSs start rolling in during your drive. The Salik Auto top-up option recharges your Salik account linked to the Card, with the specified amount, every time it reduces to a threshold of AED 20.Auto top-up is initiated for the amount as specified by you at the time of application.In case you have not requested for Auto top-up at the time of application but would like to do so, please call us on 600 599 995 and we will help you activate the facility. Please ensure you have your Salik account number and PIN handy when you call us.Please note that only one Salik account can be linked to the Emirates Islamic RTA Credit Card. You can activate Salik Auto top-up on your Supplementary Card/s also.Salik Auto top up plansYou may choose Auto top up amount from any of the below plans: Plan 1: AED 50Plan 2: AED 100Plan 3: AED 200The Auto top-up option will take the payment from your Credit card, therefore your credit limit is utilized. All Auto top-ups are included in your monthly Credit Card statement.Auto top-up cancellationYou may call us on 600 599 995 at any time to request cancellation of Salik Auto top-up facility on your Card."
+            },
+            {
+                "title": "Facilities available on the RTA Credit Card",
+                "Desc": "Facilities available on the RTA Credit Card\u00a0RTA Platinum Credit CardFare payments for RTA MetroYesCabin access for RTA MetroRegular class cabin and fareFare payments at RTA Parking MetersYesFare payments for RTA BusYesFare payments for RTA Water BusYesMonthly Pass ProductYes"
+            },
+            {
+                "title": "Complimentary Reel Cinemas Movie Tickets",
+                "Desc": "Complimentary Reel Cinemas Movie TicketsEnjoy up to 2 \"Buy 1 Get 1\" complimentary movie tickets each month, any day of the week.A minimum monthly (calendar month) retail spend of AED 3,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary tickets usage, your credit card will be billed with the discount availed.For more information on the Reel Cinemas offer, Click here."
+            },
+            {
+                "title": "Enjoy 15% off on Emaar Entertainment Attractions",
+                "Desc": "Enjoy 15% off on Emaar Entertainment AttractionsEnjoy 15% discount on the below Emaar Entertainment Attractions.Dig It - Stay and DigKidZania Abu DhabiKidZania DubaiVR Park \u2013 Pay &amp; PlayEkart Ice Rink The Dubai Fountain BoardwalkClick here to know about Emaar Attractions Term &amp; Conditions."
+            },
+            {
+                "title": "Emergency Medical and Legal referral service ",
+                "Desc": "Emergency Medical and Legal referral service  Your Emirates Islamic RTA Credit Card entitles you to emergency Medical and Legal assistance anywhere in the world, through SOS International. You also have 24-hour enquiry services, travel information and other services \u2013 from interpreters to technicians. To make use of this service, please ensure you purchase your travel using your Emirates Islamic RTA Credit Card. For medical and legal referral services, call 8000 441 3487 or the 24-Hour Alarm Centre on: +44 (0) 20 8762 8373."
+            },
+            {
+                "title": "Emergency Cash and Card replacement ",
+                "Desc": "Emergency Cash and Card replacement  In case of an emergency, you can get up to US$5,000 as emergency cash advance, anywhere in the world. You can also request for emergency Card replacement, should you lose your Card while travelling. Simply call the 24-Hour Alarm Centre on 0800 121, wait for the prompt, and then enter 866 654 0112(UAE) or +1 410 581 9994(international)."
+            },
+            {
+                "title": "Extended Warranty ",
+                "Desc": "Extended Warranty When you buy quality, you expect it to last. That's why we automatically double the original manufacturer's warranty up to one year from the expiry date of the original warranty. For more details, visit www.visamiddleeast.com."
+            },
+            {
+                "title": "Payment Options",
+                "Desc": "Payment OptionsWays to Pay:Card payments can be made through a range of different channels including: Cheque Payments: Cheque deposits through the Drop Box, which is available at all designated branches. Make sure that you write your name and Credit Card number on the back of the cheque. Please Note:Cheques are sent for Clearing and payment is made after the funds are received, which can take 3 - 5 daysExchange Houses:Payments through UAE Exchange, Al Rostamani Exchange, Al Fardan Exchange House and Al Ansari Exchange can be made in cash up to a maximum value of AED 35,000 per day. All payments will reflect in your credit card account in 2 to 3 working days.Pay Bills Online:As an Emirates Islamic account holder, you can use your online banking service to pay your monthly bills online. Simply visit www.emiratesislamicbank.ae and log in to online banking. Call 600 599995 for assistance to link your Credit Card with your online banking account.Online Auto Payment Facility:Schedule your monthly bill payment through your online banking account using the Auto Payment Transfer facility, which enables your monthly bill to be automatically deducted from your account at the click of a button.Cash At Counter:Make a cash payment for your Emirates Islamic Credit Card at any of our branches during banking hours.Cash Deposit Machines:Make your payment by depositing the payment at one of our network of Cash Deposit Machines. You can make your payments even if you do not have your card with you, all you need is the card number."
+            },
+            {
+                "title": "Purchase Protection ",
+                "Desc": "Purchase Protection  If any item purchased on your Emirates Islamic RTA Credit Card is stolen, destroyed or damaged by fire or accident within 90 days from the date of purchase, you are covered up to US$5,000 per incident (per item limit of US$1,500 and a maximum of US$20,000 in any one year). All you need to do is submit your claim within 45 days of the incident, along with proof of purchase. The item will then either be replaced or repaired. Alternatively, the cost of the item will be reimbursed. For further information, or to submit a claim, please call 8000 441 3487."
+            }
+        ]
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/EI-cashback-plus-card-550x356.png",
+        "nameOfCard": "Cashback Plus",
+        "info": "Up to 10% cash back on groceries, education, dining and telecom.Unlimited complimentary access to over 1,000 airport lounges worldwide.Auto top-up facility for Salik accounts.Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies Club.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/cashback-plus-credit-card/",
+        "benefits": [
+            {
+                "title": "Cashback",
+                "Desc": "Up to 10% cash back on groceries, education, dining, and telecom."
+            },
+            {
+                "title": "Lounge access",
+                "Desc": "Unlimited complimentary access to over 1000+ airport lounges worldwide."
+            },
+            {
+                "title": "Complimentary Golf",
+                "Desc": "2 complimentary rounds of golf any day of the week."
+            },
+            {
+                "title": "Valet Parking",
+                "Desc": "1 complimentary valet parking service per month."
+            },
+            {
+                "title": "Earn up to 10% cash back",
+                "Desc": "Earn up to 10% cash backUp to 10% cash back on supermarket spendsStart saving on your groceries by earning up to 10% cash back on purchases made at any supermarket in the UAE and abroad.Up to 10% cash back on educationGive your children the best education they deserve and get up to 10% cash back on school and university fees, in the UAE and overseas.Up to 10% cash back on diningDine at your favorite restaurants around the world and enjoy up to 10% cash back.Up to 10% cash back on telecom expensesEnjoy great savings on your Etisalat and du bills in UAE and telecom services across the globe."
+            },
+            {
+                "title": "Redeem your Cashback Plus points",
+                "Desc": "Redeem your Cashback Plus pointsRedeem your cashback points within seconds through Online Banking or through our Mobile Banking app.All you need to do is follow the steps below:Log in to your Emirates Islamic account through Online Banking or Mobile BankingClick on 'Cards'Tap on 'Rewards'Select 'Redemption' and submit your request."
+            },
+            {
+                "title": "How to earn cash back",
+                "Desc": "How to earn cash backTotal Monthly SpendCash Back Rewards \u00a0SupermarketsEducationDiningTelecomAED 0-2,9990%0%0%0%AED 3,000 - 9,9993%3%3%3%AED 10,000 - 17,4995%5%5%5%AED 17,500+10%10%10%10%Maximum Cash Back Per Month200200200200"
+            },
+            {
+                "title": "RTA benefits",
+                "Desc": "RTA benefitsAuto top-up facility on SalikWith your Emirates Islamic Cashback Plus Credit Card you can enjoy auto top-ups on Salik. By activating this facility you don't have to remember to recharge your Salik account. To activate the auto top-up facility, please call us on 600 599 995.Any top up made on your Card through online or mobile banking channels will get updated/recharged after 48hrs. For more details please Click here."
+            },
+            {
+                "title": "Complimentary Reel Cinemas Movie Tickets",
+                "Desc": "Complimentary Reel Cinemas Movie TicketsEnjoy up to 2 \"Buy 1 Get 1\" complimentary movie tickets each month, any day of the week.A minimum monthly (calendar month) retail spend of AED 3,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary tickets usage, your credit card will be billed with the discount availed.For more information on the Reel Cinemas offer, Click here."
+            },
+            {
+                "title": "Complimentary airport lounge access",
+                "Desc": "Complimentary airport lounge accessTravelling abroad? You and your supplementary cardholders can enjoy unlimited access to over 1000 airport lounges worldwide. Just present your Card at the participating lounges to enjoy complimentary access. To find out about participating lounges please visit www.loungekey.com/visasignatureTerms &amp; Conditions:1st visit to the Lounge in a calendar year is complimentary.To utilize the subsequent complimentary visits in the same calendar year, customer needs to make a minimum foreign currency spend of USD 1 or equivalent, on both primary &amp; supplementary cards 15 days prior the lounge visit. If the spend criteria is not met then customer will be charged US $27 per usage to the used card.For every accompanying guest, cardholders will be charged US $27 per person per visit."
+            },
+            {
+                "title": "Complimentary Golf any day of the week",
+                "Desc": "Complimentary Golf any day of the weekEnjoy two rounds of complimentary golf per month at Arabian Ranches Golf Club, Track Meydan Golf Club, The Trump International Golf Club or Yas Links Golf Club on weekends or weekdays.A minimum monthly (calendar month) retail spend of AED 5,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary golf rounds or no show at the club, your credit card will be billed with the applicable green fee. Click here  to book your game, charges and other Terms &amp; Conditions."
+            },
+            {
+                "title": "Enjoy 15% off on Emaar Entertainment Attractions",
+                "Desc": "Enjoy 15% off on Emaar Entertainment AttractionsEnjoy 15% discount on the below Emaar Entertainment Attractions.Dig It - Stay and DigKidZania Abu DhabiKidZania DubaiVR Park \u2013 Pay &amp; PlayEkart Ice Rink The Dubai Fountain BoardwalkClick here to know about Emaar Attractions Term &amp; Conditions."
+            },
+            {
+                "title": "Extended warranty",
+                "Desc": "Extended warranty When you buy quality, you expect it to last. That's why we automatically double the original manufacturer's warranty up to one year from the expiry date of the original warranty. For more details, visit www.visamiddleeast.com."
+            },
+            {
+                "title": "Meet & Greet Bronze Service",
+                "Desc": "Meet &amp; Greet Bronze ServiceEnjoy up to 2 complimentary Marhaba Meet &amp; Greet services per year. A minimum monthly (calendar month) retail spend of AED 3,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary service usage, your credit card will be billed with the applicable service fee. Click here for the Terms &amp; Conditions.Click here to book now!"
+            },
+            {
+                "title": "Purchase protection",
+                "Desc": "Purchase protectionPurchase protection provides you with additional peace of mind every time you make a purchase. It protects your purchases against theft or damage so you can focus on finding the perfect gift.For more details Click here."
+            },
+            {
+                "title": "Cash on call facility",
+                "Desc": "Cash on call facilityWith your Emirates Islamic Cashback Plus Credit Card you can avail Cash on Call facility of up to 80% of your available credit limit. For more details Click here."
+            },
+            {
+                "title": "Luxury Hotel Collection",
+                "Desc": "Luxury Hotel CollectionEnjoy unsurpassed value at over 900 intriguing and prestigious properties around the world with your Emirates Islamic Cashback Plus Credit Card. This hand-selected portfolio includes boutique gems as well as world-famous hotels and resorts.Privileges on your card: Best available rate guaranteeAutomatic room upgrade upon arrival when availableComplimentary in-room Internet Complimentary continental breakfast 3:00 PM check-out when available VIP Guest statusUS$25 food or beverage voucherFor more details please www.visaluxuryhotels.com ."
+            },
+            {
+                "title": "Multi Trip Travel Insurance",
+                "Desc": "Multi Trip Travel InsuranceTravel with complete freedom and peace of mind. Your Cashback Plus Credit Card saves you the time and expense of organizing travel and medical insurance separately when you travel. You are automatically covered for travel accident and travel inconvenience insurance on all trips of up to 90 days duration. To get your travel insurance certificate please click here."
+            },
+            {
+                "title": "Easy Payment Plan",
+                "Desc": "Easy Payment PlanShop to your heart's content with the 0% Easy Payment Plan. From electronics, telecom, supermarket and jewellery; ask for our Easy Payment Plans of 3, 6, 9 or 12 months when making a purchase at our partner outlets such as Carrefour and Sharaf DG among others. For more details click here."
+            },
+            {
+                "title": "*Cashback Plus with no Annual Membership Fee",
+                "Desc": "*Cashback Plus with no Annual Membership FeeThis offer (Offer) is applicable for all Emirates Islamic Cashback Plus Credit Card Program (\"Program\" \"Card\") applicants (the Applicant(s)) and shall be valid only during the Offer's campaign period starting from February 2021 to 31 December 2022 inclusive of both dates (Campaign Period). For more details on the campaign please click here."
+            },
+            {
+                "title": "Complimentary Valet Parking",
+                "Desc": "Complimentary Valet ParkingEnjoy 1 complimentary valet parking services per month at select locations across the UAE. All you have to do is present your Emirates Islamic Etihad Guest Saqer card at the valet parking desk. A minimum monthly (calendar month) retail spend of AED 3,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary services, your credit card will be billed with the actual service amount. Click here for the valet parking locations, charges and other Terms &amp; Conditions."
+            },
+            {
+                "title": "Complimentary Access to Dubai Ladies Club & Sharjah Ladies Club",
+                "Desc": "Complimentary Access to Dubai Ladies Club &amp; Sharjah Ladies ClubYou can avail complimentary access to Dubai Ladies Club &amp; Sharjah Ladies Club in the UAE and enjoy various benefit like Pool &amp; beach access, gym, outdoor activities and more.All you have to do is present your Emirates Islamic Cash Back Plus credit card at Dubai Ladies Club &amp; Sharjah Ladies Club at their reception desk. Click here for the Terms &amp; Conditions."
+            }
+        ]
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/Etihad_Guest_Platinum_Credit_Card_550x346.png",
+        "nameOfCard": "Etihad Guest Platinum Credit Card",
+        "info": "Up to 2 Etihad Guest Miles per USD spent.Unlimited 10% miles back on flight redemptions &amp; upgrades.Discounts on dining, travel, hotels and shopping.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/etihad-guest-platinum-credit-card/",
+        "benefits": [
+            {
+                "title": "Earn Etihad Guest Miles",
+                "Desc": "Up to 2 Etihad Guest Miles per USD spent."
+            },
+            {
+                "title": "Earn Accelerated Etihad Guest Miles",
+                "Desc": "2 Etihad Guest Miles per USD spent on Online & Mobile Wallet transactions."
+            },
+            {
+                "title": "10% Etihad Guest Miles Back",
+                "Desc": "Unlimited 10% miles back on booking/upgrading a flight with Etihad Guest Miles."
+            },
+            {
+                "title": "Complimentary Inflight Wifi vouchers",
+                "Desc": "Enjoy 2 complimentary Wi-Fi vouchers per annum"
+            },
+            {
+                "title": "Welcome Bonus",
+                "Desc": "Welcome BonusWelcome bonus of 5,000 Etihad Guest Miles upon payment of Annual Membership Fee."
+            },
+            {
+                "title": "Etihad Guest Earn Rates",
+                "Desc": "Etihad Guest Earn RatesFor every USD 1 retail spend made using your Emirates Islamic Etihad Guest Card you will earn Etihad Guest Miles as per below.Spend CategoryEarn RatesSpend at Etihad Airline2 Etihad Guest MilesInternational Spend1.5 Etihad Guest MilesOn Mobile Wallet &amp; Online Transactions2 Etihad Guest MilesDomestic SpendUp to 1 Etihad Guest Miles"
+            },
+            {
+                "title": "Earn Higher Miles on Mobile Wallets & Online Transactions",
+                "Desc": "Earn Higher Miles on Mobile Wallets &amp; Online TransactionsWith Emirates Islamic Etihad Guest Platinum card, you will earn 2 Etihad Guest Miles for every USD 1 spent on Mobile Wallets &amp; Online Transactions.The Etihad Guest Mile earning on Mobile Wallets &amp; Online Transactions is capped at 1,500 Miles per category per month."
+            },
+            {
+                "title": "Unlimited 10% Miles back on booking/upgrading a flight with Etihad Guest Miles",
+                "Desc": "Unlimited 10% Miles back on booking/upgrading a flight with Etihad Guest MilesGet 10% of your Etihad Guest Miles back when you book/upgrade a flight using your Etihad Guest Miles. There is no maximum limit on the Miles received per year.Miles will be credited to the customer\u2019s Etihad Guest account within 15 working days.Miles back offer will be applicable only on the airfare ticket redemption and not for the airport taxes redemption."
+            },
+            {
+                "title": "0% Easy Payment Plan on Etihad purchases",
+                "Desc": "0% Easy Payment Plan on Etihad purchasesConvert your purchases made at etihad.com into convenient monthly installments, of 3 or 6 months. Processing fee of 2% will be applied."
+            },
+            {
+                "title": "Complimentary Inflight wifi vouchers",
+                "Desc": "Complimentary Inflight wifi vouchersEnjoy 2 complimentary wifi vouchers every membership year. You will receive 1 wi-fi voucher on every transaction of AED 500 or more made on Etihad airways (etihad.com, Etihad branches or the Etihad call center); capped at 2 vouchers per annum.Each voucher is valid for 1 year and can only be used once. The voucher will be sent to you by Etihad Guest via email within 10 days of meeting the spend criteria."
+            },
+            {
+                "title": "Earn 50% cashback on Movies",
+                "Desc": "Earn 50% cashback on MoviesEnjoy movie nights even more by getting 50% cashback on Cinema tickets, any day of the week.The maximum cashback a cardholder can earn is AED 50 per month.Cardholders can purchase tickets from any cinema hall, for any class &amp; on any day of the week.Terms &amp; Conditions:Cashback will be credited to your account with 5 working days from the transaction dateMovie spends will be determined basis Merchant code 7832, as defined by VISA. This code can be changed by VISA at any time, without prior notice and will be updated on our system accordingly."
+            },
+            {
+                "title": "Extended Warranty",
+                "Desc": "Extended Warranty When you buy quality, you expect it to last. That's why we automatically double the original manufacturer's warranty up to one year from the expiry date of the original warranty. For more details, visit www.visamiddleeast.com."
+            },
+            {
+                "title": "Global Assistance",
+                "Desc": "Global AssistanceNo matter where you are in the world, VISA International multilingual service representatives are on hand to assist you 24 hours a day, 365 days a year. If your Visa Platinum card has been lost or stolen, Visa Global Customer Assistance Services representatives can help. For help, call 8000-021 866-654-0112 from inside UAE or +1 303 967 1090* from outside UAE."
+            },
+            {
+                "title": "Purchase Protection",
+                "Desc": "Purchase ProtectionPurchase protection provides you with additional peace of mind every time you make a purchase. It protects your purchases against theft or damage so you can focus on finding the perfect gift. For more details Click here"
+            },
+            {
+                "title": "Balance Transfer Facility",
+                "Desc": "Balance Transfer FacilityNow you can really save big time with your Etihad Guest Visa Platinum Credit Card balance transfer facility. You have the opportunity to pay off balances you owe to other banks through your Etihad Guest Visa Platinum Credit Card, with no profit charged on the balance transferred."
+            },
+            {
+                "title": "Cash Advance",
+                "Desc": "Cash AdvanceYou can now withdraw cash as per Bank's policy through your Etihad Guest Visa Platinum Credit Card's instant cash advance facility from any Emirates Islamic branch and at more than 780,000 ATMs, exchange houses and financial institutions worldwide displaying the VISA logo. Cash advance fee will apply and no Etihad Guest Miles are granted against cash advance."
+            },
+            {
+                "title": "Luxury Hotel Collection",
+                "Desc": "Luxury Hotel CollectionEnjoy unsurpassed value at over 900 intriguing and prestigious properties around the world with your Emirates Islamic Etihad Platinum Credit Card. This hand-selected portfolio includes boutique gems as well as world-famous hotels and resorts.Privileges on your cardBest available rate guaranteeAutomatic room upgrade upon arrival when availableComplimentary in-room InternetComplimentary continental breakfast3:00 PM check-out when availableVIP Guest statusUS$25 food or beverage voucherFor more details please www.visaluxuryhotels.com"
+            }
+        ]
+    },
+    {
+        "bankname": "Emirates Islamic",
+        "image": "https://www.emiratesislamic.ae/eng/assets/images/EI-cashback-card-550x356.png",
+        "nameOfCard": "Cashback",
+        "info": "5% cash back on telecom expenses.5% cash back on electronic store purchases.Up to 1% guaranteed cash back on all local and international transactions.No minimum spend criteria for earning cash back rewards.",
+        "cardlink": "https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/cash-back-card/",
+        "benefits": [
+            {
+                "title": "No minimum spend",
+                "Desc": "You start earning cashback from your very first spend."
+            },
+            {
+                "title": "5% cashback on telecommunication",
+                "Desc": "5% guaranteed cashback on etisalat & du spends."
+            },
+            {
+                "title": "Cashback at Electronic stores",
+                "Desc": "5% guaranteed cashback on electronics store purchases."
+            },
+            {
+                "title": "Guaranteed cashback on all spends",
+                "Desc": "Earn up to 1% cashback on all your local and international spends."
+            },
+            {
+                "title": "Cashback Program",
+                "Desc": "Cashback ProgramEmirates Islamic Cashback Card brings to you the best cash back program. Your Card is powered with:5% guaranteed cash back on telecom expenses5% guaranteed cash back on electronic purchasesUp to 1% guaranteed cash back on all local and international transactionsNo minimum spend criteria for earning cash back rewards"
+            },
+            {
+                "title": "Cashback Redemption",
+                "Desc": "Cashback RedemptionRedeem your cashback points within seconds through Online Banking or through our Mobile Banking app.All you need to do is follow the steps below:Log in to your Emirates Islamic account through Online Banking or Mobile BankingClick on 'Cards'Tap on 'Rewards'Select 'Redemption' and submit your request.For more details about Cash Back earning rates please Click here."
+            },
+            {
+                "title": "Extended Warranty",
+                "Desc": "Extended WarrantyWhen you buy quality, you expect it to last. That's why we automatically double the original manufacturer's warranty up to one year from the expiry date of the original warranty. For more details, visit www.visamiddleeast.com."
+            },
+            {
+                "title": "Complimentary Reel Cinemas Movie Tickets",
+                "Desc": "Complimentary Reel Cinemas Movie TicketsEnjoy up to 2 \"Buy 1 Get 1\" complimentary movie tickets each month, any day of the week.A minimum monthly (calendar month) retail spend of AED 3,000 is required on your card to avail the benefit. If the spend criteria is not met or on exceeding the maximum complimentary tickets usage, your credit card will be billed with the discount availed.For more information on the Reel Cinemas offer, Click here."
+            },
+            {
+                "title": "Luxury Hotel Collection",
+                "Desc": "Luxury Hotel CollectionEnjoy unsurpassed value at over 900 intriguing and prestigious properties around the world with your Emirates Islamic Cashback Credit Card. This hand-selected portfolio includes boutique gems as well as world-famous hotels and resorts.Privileges on your card: Best available rate guaranteeAutomatic room upgrade upon arrival when availableComplimentary in-room InternetComplimentary continental breakfast3:00 PM check-out when availableVIP Guest statusUS$25 food or beverage voucherFor more details please click here."
+            },
+            {
+                "title": "Purchase Protection",
+                "Desc": "Purchase ProtectionIt provides coverage of USD 5000 per occurrence and USD 20,000 per year against loss or damage that occurs within a limited time duration from the date of purchase. For more details click here."
+            },
+            {
+                "title": "Introducing xperience with the entertainer",
+                "Desc": "Introducing xperience with the entertainerWith Visa, you can get 2-for-1 at your favourite outletsxperience with the ENTERTAINER is the latest offering from Visa. Unlock 2-for-1 on your favourite dining, beauty and fitness outlets. Download the app from your app store."
+            },
+            {
+                "title": "Enjoy 15% off on Emaar Entertainment Attractions",
+                "Desc": "Enjoy 15% off on Emaar Entertainment AttractionsEnjoy 15% discount on the below Emaar Entertainment Attractions.Dig It - Stay and DigKidZania Abu DhabiKidZania DubaiVR Park \u2013 Pay &amp; PlayEkart Ice Rink The Dubai Fountain BoardwalkClick here to know about Emaar Attractions Term &amp; Conditions."
+            },
+            {
+                "title": "Cash on Call",
+                "Desc": "Cash on CallWith your Emirates Islamic Cashback Credit Card you can avail Cash on Call facility of up to 80% of your available credit limit. For more details click here."
+            },
+            {
+                "title": "Balance Transfer",
+                "Desc": "Balance TransferEnjoy 0% profit rate on the outstanding balance of your credit cards from other banks for 6 months by simply transferring it to your Emirates Islamic Cashback Credit Card with nothing more than a processing fee. For more details click here."
+            },
+            {
+                "title": "Easy Payment Plan",
+                "Desc": "Easy Payment PlanShop to your heart's content with the 0% Easy Payment Plan. From electronics, telecom, supermarket and jewellery; ask for our Easy Payment Plans of 3, 6, 9 or 12 months when making a purchase at our partner outlets such as Carrefour and Sharaf DG among others. For more details click here."
+            }
+        ]
+    }
+]

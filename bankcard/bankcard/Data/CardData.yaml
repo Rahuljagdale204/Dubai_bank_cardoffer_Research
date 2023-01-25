@@ -1,36 +1,34 @@
 
 Commercial Bank of Dubai:
   baseUrl:  https://www.cbd.ae/personal/bank/cards
-  nexturl:  //a[@class='button orange wide boxListCta']/@href
-
+  cardurl:  //a[@class='button orange wide boxListCta']/@href
   xpath:
     container:
     image: //div[@class='banner']/img/@src
     typeOfCard: 
     nameOfCard: //div[@class='box']/h1/text()
     info: //div[@class="box"]/p/text()
+    tnc:  //div[@class='sf_colsIn sf_2cols_1in_67']/div/strong/../ul/li | //div[@class='sf_colsIn sf_2cols_1in_67']/div[1]/h3/../ul
     benefits: 
-      title:  //div[@class='sfContentBlock']/div/ul/span/strong/text()
-      desc: //div[@class='sfContentBlock']/div/ul/text()
+      title:  //div[@id='cph_main_cph_main_C062_Col00']/div/h3[1]/text() | //div[@id = 'cph_main_cph_main_C024_Col00']/div/p/strong/text() | //div[@id = 'cph_main_cph_main_C024_Col00']/div/b/b/p/strong | //h3[@id='features-benefit']/text()
+      desc: //div[@id='cph_main_cph_main_C062_Col00']/div/h3/../ul | //div[@id = 'cph_main_cph_main_C024_Col00']/div/ul | //div[@id = 'cph_main_cph_main_C024_Col00']/div/b/b/ul  | //h3[@id='features-benefit']/../ul
 
 Dubai Islamic Bank:
-  baseUrl:  
-  nexturl:  
-
+  baseUrl: https://www.dib.ae/personal/cards?cardType=All-Cards&income=Any&cardBenefit=All-Benefits&visible=6
+  cardurl: //div[@class='card-title-info']/a/@href
   xpath:
-    container:
-    image: 
-    typeOfCard: 
-    nameOfCard: 
-    info: 
-    benefits: 
-      title:  
-      desc: 
+    image:  //img[@class='active spotlight-media img-circle']/@src
+    typeOfCard:
+    nameOfCard: //h1[@class='col-side-heading-1']/text/text()
+    info: //div[@class='spotlight-contents']/p/text()
+    benefits:
+      title: //div[@class='col-sm-4 col']/h3/text()
+      desc: //div[@class='accordion-content content-parent']
+
 
 Emirates Islamic:
   baseUrl:  
-  nexturl:  
-
+  cardurl:  
   xpath:
     container:
     image: 
@@ -43,7 +41,7 @@ Emirates Islamic:
       
 Emirates NBD:
   baseUrl:  
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:
@@ -57,7 +55,7 @@ Emirates NBD:
 
 Mashreq Bank:
   baseUrl:  
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:
@@ -71,7 +69,7 @@ Mashreq Bank:
 
 Banque Misr:
   baseUrl:  
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:
@@ -85,7 +83,7 @@ Banque Misr:
 
 Bank Al Falah Limited:
   baseUrl:  
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:
@@ -99,7 +97,7 @@ Bank Al Falah Limited:
 
 HSBC Bank Middle East Limited:
   baseUrl:  
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:
@@ -113,7 +111,7 @@ HSBC Bank Middle East Limited:
 
 Al Ahli Bank of Kuwait:
   baseUrl:  
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:
@@ -127,7 +125,7 @@ Al Ahli Bank of Kuwait:
 
 Abu Dhabi Commercial Bank:
   baseUrl:  
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:
@@ -141,7 +139,7 @@ Abu Dhabi Commercial Bank:
 
 Abu Dhabi Islamic Bank:
   baseUrl:  
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:
@@ -174,7 +172,7 @@ Arab African International Bank:
 Al Khaliji:
 Habib Bank Ltd.:
   baseUrl:  
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:
@@ -188,7 +186,7 @@ Habib Bank Ltd.:
 
 Habib Bank A.G Zurich:
   baseUrl:  
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:
@@ -202,7 +200,7 @@ Habib Bank A.G Zurich:
 
 Standard Chartered Bank:
   baseUrl:  
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:
@@ -216,7 +214,7 @@ Standard Chartered Bank:
 
 CitiBank N. A.:
   baseUrl:  
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:
@@ -230,7 +228,7 @@ CitiBank N. A.:
 
 Bank Saderat Iran:
   baseUrl:  
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:
@@ -244,7 +242,7 @@ Bank Saderat Iran:
 
 Bank Melli Iran:
   baseUrl:  
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:
@@ -258,7 +256,7 @@ Bank Melli Iran:
 
 Banque Banorient France:
   baseUrl:  
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:
@@ -272,7 +270,7 @@ Banque Banorient France:
 
 NatWest Markets Plc:
   baseUrl:  https://www.natwest.com/credit-cards.html?intcam=PC_HP-TTB-Default-UKN3-DEF
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:  //div[@class='col-xs-12 col-md-6 col-sm-12 col-lg-7 col-md-offset-right-1']/div
@@ -289,7 +287,7 @@ United Bank Ltd.:
 
 Doha Bank(credit-card):
   baseUrl:  https://qa.dohabank.com/personal/cards/credit-card-products/
-  nexturl: //div[@class='artical-body']/ul/li/a/@href 
+  cardurl: //div[@class='artical-body']/ul/li/a/@href 
 
   xpath:
     container:
@@ -304,7 +302,7 @@ Doha Bank(credit-card):
 
 Doha Bank(FIFA World Cup):
   baseUrl:  https://qa.dohabank.com/personal/cards/credit-card-products/fifa-world-cup-credit-cards/
-  nexturl: //div[@class='artical-body']/ul/li/a/@href 
+  cardurl: //div[@class='artical-body']/ul/li/a/@href 
 
   xpath:
     container:
@@ -318,7 +316,7 @@ Doha Bank(FIFA World Cup):
 
 Doha Bank(Debit-card):
   baseUrl:  https://qa.dohabank.com/personal/cards/debit-card-products/
-  nexturl: //div[@class='artical-body']/ul/li/a/@href 
+  cardurl: //div[@class='artical-body']/ul/li/a/@href 
 
   xpath:
     container:
@@ -332,7 +330,7 @@ Doha Bank(Debit-card):
 
 Saudi National Bank:
   baseUrl:  
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:
@@ -346,7 +344,7 @@ Saudi National Bank:
 
 National Bank of Kuwait:
   baseUrl:  https://www.nbk.com/uae/personal/cards/credit-cards.html
-  nexturl:  //a[@class='learn-more']/@href
+  cardurl:  //a[@class='learn-more']/@href
 
   xpath:
     container:
@@ -363,7 +361,7 @@ BOK International Bank:
 
 Industrial & Commercial Bank of China:
   baseUrl:  https://www.icbcasia.com/ICBC/%e6%b5%b7%e5%a4%96%e5%88%86%e8%a1%8c/%e5%b7%a5%e9%93%b6%e4%ba%9a%e6%b4%b2/EN/Credit_Cards/Type_of_Cards/default.htm
-  nexturl:  //a[@class='link3'][1]/@href
+  cardurl:  //a[@class='link3'][1]/@href
 
   xpath:
     container:
@@ -377,7 +375,7 @@ Industrial & Commercial Bank of China:
 
 Deutsche Bank AG:
   baseUrl:  https://www.deutsche-bank.de/ms/pc/cards0.html
-  nexturl:  
+  cardurl:  
 
   xpath:
     container:  //div[@class='colctrl__25-25-25-25 colctrl--nesting-level-0 colctrl--separated-right']
@@ -395,7 +393,7 @@ KEB Hana Bank:
 
 Barclays Bank PLC:
   baseUrl:  https://www.barclays.co.uk/credit-cards/
-  nexturl:  //div[@data-component-type='CreditCard']/div/div/div/div/a/@href
+  cardurl:  //div[@data-component-type='CreditCard']/div/div/div/div/a/@href
 
   xpath:
     container:
@@ -409,7 +407,7 @@ Barclays Bank PLC:
 
 Bank of China Limited (credit-card):
   baseUrl:  https://www.boc.cn/en/bcservice/bc1/
-  nexturl:  //a[@class='fsm']/@href
+  cardurl:  //a[@class='fsm']/@href
 
   xpath:
     container:
@@ -423,7 +421,7 @@ Bank of China Limited (credit-card):
 
 Bank of China Limited (Debit-card):
   baseUrl:  https://www.boc.cn/en/bcservice/bc2/
-  nexturl:  //a[@class='fsm']/@href
+  cardurl:  //a[@class='fsm']/@href
 
   xpath:
     container:
@@ -437,7 +435,7 @@ Bank of China Limited (Debit-card):
 
 Gulf International Bank:
   baseUrl:  https://www.e-gulfbank.com/en/personal/cards/
-  nexturl:  //a[@class='title-link']/@href
+  cardurl:  //a[@class='title-link']/@href
 
   xpath:
     container:
@@ -451,7 +449,7 @@ Gulf International Bank:
 
 MCB Bank Limited: 
   baseUrl:  https://www.mcb-bank.com/personal/cards/credit-cards
-  nexturl:  //div[@class='title label wimage']/a/@href
+  cardurl:  //div[@class='title label wimage']/a/@href
 
   xpath:
     container:
@@ -465,7 +463,7 @@ MCB Bank Limited:
 
 Intesa Sanpaolo S.P.A:
   baseUrl:  https://www.intesasanpaolobank.si/en/prebivalstvo/placilne-kartice.html
-  nexturl:  //a[@class='btn btn-primary  btn-sm']/@href
+  cardurl:  //a[@class='btn btn-primary  btn-sm']/@href
 
   xpath:
     container:

@@ -1,24 +1,23 @@
-# Dubai Islamic Bank:
-#   baseUrl: https://www.dib.ae/personal/cards?cardType=All-Cards&income=Any&cardBenefit=All-Benefits&visible=6
-#   nexturl: //div[@class='card-title-info']/a/@href
-#   xpath:
-#     image:  //img[@class='active spotlight-media img-circle']/@src
-#     typeOfCard:
-#     nameOfCard: //h1[@class='col-side-heading-1']/text/text()
-#     info: //div[@class='spotlight-contents']
-#     benifits:
-#       title: //div[@class='col-sm-4 col']/h3/text()
-#       desc: //div[@class='accordion-content content-parent']
-
-Commercial Bank of Dubai:
-  baseUrl:  https://www.cbd.ae/personal/bank/cards
-  nexturl:  //a[@class='button orange wide boxListCta']/@href
+Emirates Islamic:
+  baseUrl: https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/
   xpath:
     container:
-    image: //div[@class='banner']/img/@src
-    typeOfCard: 
-    nameOfCard: //div[@class='box']/h1/text()
-    info: //div[@class="box"]/p/text()
-    benefits: 
-      title:  //div[@class='sfContentBlock']/div/ul/span/strong/text()
-      desc: //div[@class='sfContentBlock']/div/ul/text()
+    image:  //div[@class='card-deck']/div/a/img/@src
+    typeOfCard:
+    nameOfCard: //div[@class='card-deck']/div/a/../div[1]/h3/a/text()
+    info: //div[@class='card-deck']/div/a/../div[1]/div/ul
+    cardurl: //div[@class='card-deck']/div/a/@href
+    benefits:
+      title: //div[@class="benefit-text"]/h3/text() | //div[@class='card']/h3/text()
+      desc: //div[@class="benefit-text"]/p/text() | //div[@class='card']/h3/..
+  # baseUrl:  
+  # nexturl: 
+  # xpath:
+  #   container:
+  #   image: 
+  #   typeOfCard: 
+  #   nameOfCard:
+  #   info:
+  #   benefits: 
+  #     title:  
+  #     desc

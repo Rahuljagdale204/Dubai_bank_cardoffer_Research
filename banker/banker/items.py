@@ -35,4 +35,5 @@ class offerItem(scrapy.Item):
     offerdetails = scrapy.Field()
     tnc = scrapy.Field()
     location = scrapy.Field()
+    eligible = scrapy.Field()
     applylink = scrapy.Field()

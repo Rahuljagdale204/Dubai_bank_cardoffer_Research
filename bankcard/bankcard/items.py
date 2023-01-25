@@ -17,17 +17,17 @@ class BankerItem(scrapy.Item):
 
 class CardItem(scrapy.Item):
     bankname = scrapy.Field()
-    baseurl = scrapy.Field()
+    cardlink = scrapy.Field()
     nameOfCard = scrapy.Field()
     typeOfCard = scrapy.Field()
     info = scrapy.Field()
-    benifits = scrapy.Field()
+    benefits = scrapy.Field()
     image = scrapy.Field()
+    tnc = scrapy.Field()
     
     
 
-    '''
-        class offerItem(scrapy.Item):
+class offerItem(scrapy.Item):
     bankname = scrapy.Field()
     baseUrl = scrapy.Field()
     category = scrapy.Field()
@@ -39,5 +39,5 @@ class CardItem(scrapy.Item):
     offerdetails = scrapy.Field()
     tnc = scrapy.Field()
     location = scrapy.Field()
+    eligible = scrapy.Field()
     applylink = scrapy.Field()
-    '''

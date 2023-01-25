@@ -1,109 +1,122 @@
+# python scraper code for the pagination bank information code 
+# example: - Emirates Islamic
+'''
+    yaml file: - 
+    Emirates Islamic:
+    baseUrl: https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/
+    xpath:
+        container:
+        image:  //div[@class='card-deck']/div/a/img/@src
+        typeOfCard:
+        nameOfCard: //div[@class='card-deck']/div/a/../div[1]/h3/a/text()
+        info: //div[@class='card-deck']/div/a/../div[1]/div/ul
+        cardurl: //div[@class='card-deck']/div/a/@href
+        benefits:
+        title: //div[@class="benefit-text"]/h3/text() | //div[@class='card']/h3/text()
+        desc: //div[@class="benefit-text"]/p/text() | //div[@class='card']/h3/..
+'''
+
 import scrapy
 import yaml
 from yaml.loader import SafeLoader
 from bankcard.items import CardItem
+
 import re
-'''
-baseUrl:
-nexturl:
-xpath:
-    image:
-    typeOfCard:
-    nameOfCard:
-    info:
-    benifits:
-        title:
-        desc:
-'''
 
 
-class cardsSpider(scrapy.Spider):
-    filePath = '/home/rahul/Downloads/Intership/Dubai_bank_cardoffer_Research/bankcard/bankcard/Data/testfile.yaml'
-    # filePath = '/home/unfixedbug/Desktop/Internship/dubai_banks_crawler/banker/data/CardData.yaml'
-    name = "cards"
+class Bankcard(scrapy.Spider):
 
-    # initial requests
+    name="cardtest2"
+    # start_urls = ["https://www.cbd.ae/personal/bank/cards"]
+
+    path = '/home/rahul/Downloads/Intership/Dubai_bank_cardoffer_Research/bankcard/bankcard/Data/testfile.yaml'
+
     def start_requests(self):
-        with open(self.filePath, 'r') as f:
+        with open(self.path, 'r') as f:
             data = yaml.load(f, Loader=SafeLoader)
             for key, obj in data.items():
                 if obj['baseUrl']:
                     self.logger.info(f"Sending requets for {key}")
-                    yield scrapy.Request(url=obj['baseUrl'], meta={"xp": obj['xpath'], "bankName": key, "itemPath": obj['nexturl']})
+                    yield scrapy.Request(url=obj['baseUrl'],method='GET',callback=self.parse, meta={"xp": obj['xpath'],"bankName": key, "itemPath": obj['xpath']['nameOfCard']})
+
+    
 
     def parse(self, response):
-        card = CardItem()
 
-        if len(response.meta["itemPath"]) is 0:
-            '''
-            cards = response.xpath(
-                response.meta["xp"]['container']).getall() #cards has all single cards
-            for card in cards:
-                # traverse xpaths len(cards) times
-            '''
-            for key, val in response.meta["xp"].items():
-                # add containerisation
-
-                if val:
-                    if key == 'benefits':
-                        AllBenifits = {}
-                        titleList = response.xpath(val['title']).getall()
-                        DescList = response.xpath(val['desc']).getall()
-                        for title, Desc in zip(titleList, DescList):
-                            AllBenifits.update({
-                                title: self.extract_desc(Desc)
-                            })
-                        card['benefits'] = AllBenifits
-                    elif key == 'image':
-                        card[key] = response.urljoin(self.extract_desc(
-                            response.xpath(val).get()))
-                    else:
-                        card[key] = self.removehtmllist(
-                            response.xpath(val).get())
-            if not card['info'] and not card['typeOfCard']:
-                return
-            card['nameOfBank'] = response.meta['bankName']
-            card['cardUrl'] = response.url
-            yield card
-        # if it has next links then pass the link as url
-        # extract links
         nextPath = response.meta["itemPath"]
-        links = response.xpath(nextPath).getall()
+        cardnumber = response.xpath(nextPath).getall()
+        name = response.meta["bankName"]
+        
+        for i in range(len(cardnumber)):
+            card = CardItem()
+            
+            # card['cardlink'] = response.meta['burl']
+            for key, val in response.meta["xp"].items():
+                if val:
+                    card['bankname'] = name
+                    if key == 'image':
+                        links = response.xpath(val).getall()
+                        card[key] = response.urljoin(links[i])
+                        
+                    elif key=='benefits':
+                        pass
+                    
+                        
+                    elif key=='cardurl':
+                        links = response.xpath(val).getall()
+                        cUrl= response.urljoin(links[i])
+                        card['cardlink'] = cUrl
+                        yield scrapy.Request(
+                            url=cUrl,method='GET',
+                            callback=self.parse_items, meta={'maincard':card, 'xp':response.meta['xp']})
 
-        for link in links:
-            # if link has https tag, then parse else get it from completeUrl
-            cUrl = response.urljoin(link)
+                    else:
+                        value2 = response.xpath(val).getall()
+                        card[key] = self.extract_desc(value2[i])
 
-            yield scrapy.Request(
-                url=cUrl,
-                callback=self.parse_items, meta=response.meta)
+            yield card
+
+  # baseUrl:  
+  # cardurl: 
+  # xpath:
+  #   container:
+  #   image: 
+  #   typeOfCard: 
+  #   nameOfCard:
+  #   info:
+  #   benefits: 
+  #     title:  
+  #     desc
 
     def parse_items(self, response):
-        Card = CardItem()
+        
+        
+        card2 = response.meta['maincard']
+        
         for key, val in response.meta["xp"].items():
             if val:
-                if key == 'benefits':
-                    AllBenifits = {}
-                    titleList = []
-                    DescList = []
-                    if val['title']:
-                        titleList = response.xpath(val['title']).getall()
-                    if val['desc']:
-                        DescList = response.xpath(val['desc']).getall()
+                    
+                if key=='benefits':
+                    AllBenifits = []
+                    titleList = response.xpath(val['title']).getall()
+                    DescList = response.xpath(val['desc']).getall()
+                     
                     for title, Desc in zip(titleList, DescList):
-                        AllBenifits.update({
-                            title: self.extract_desc(Desc)
+                        AllBenifits.append({
+                            "title":(title),
+                            "Desc":self.extract_desc(Desc)
                         })
-                    Card[key] = AllBenifits
-                elif key == 'image':
-                    Card[key] = response.urljoin(self.extract_desc(
-                        response.xpath(val).get()))
+                        
+                    card2[key]=(
+                        AllBenifits
+                    )
+                    
                 else:
-                    Card[key] = self.extract_desc(
-                        response.xpath(val).get())
-        Card['nameOfBank'] = response.meta['bankName']
-        Card['cardUrl'] = response.url
-        yield Card
+                    card2[key] = self.extract_desc(response.xpath(val).getall())
+                
+        yield card2
+
+    
 
     def extract_desc(self, string):
         string = string.replace('\r', '').replace('\n','')
@@ -119,3 +132,5 @@ class cardsSpider(scrapy.Spider):
             string1 = re.sub(' +', ' ', string1)
             value2 = value2+string1
         return value2
+
+    
