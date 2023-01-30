@@ -19,11 +19,11 @@
 import scrapy
 import yaml
 from yaml.loader import SafeLoader
-from bankcard.items import CardItemfab
+from bankcard.items import CardItememi
 import re
 class Bankcard(scrapy.Spider):
     name="cardtest2"
-    path = '/home/rahul/Downloads/Intership/Dubai_bank_cardoffer_Research/bankcard/bankcard/Data/testfile.yaml'
+    path = '/home/rahul/Downloads/Intership/Dubai_bank_cardoffer_Research/bankcard/bankcard/Data/Emirates_Islamic.yaml'
 
     def start_requests(self):
         with open(self.path, 'r') as f:
@@ -38,7 +38,7 @@ class Bankcard(scrapy.Spider):
         cardnumber = response.xpath(nextPath).getall()
         name = response.meta["bankName"]
         for i in range(len(cardnumber)):
-            card = CardItemfab()  
+            card = CardItememi()  
             for key, val in response.meta["xp"].items():
                 if val:
                     card['bankname'] = name
@@ -78,12 +78,6 @@ class Bankcard(scrapy.Spider):
                     card2[key]=(
                         AllBenifits
                     )
-                elif(key=='applylink'):
-                    links = response.xpath(val).getall()
-                    for curl in links:
-                        yield scrapy.Request(
-                            url=curl,method='GET',
-                            callback=self.parse_items, meta={'maincard':card2, 'cardoffer':response.meta['xp']})
                 else:
                     card2[key] = self.extract_desc(response.xpath(val).getall())
         yield card2

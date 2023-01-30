@@ -14,10 +14,27 @@ class BankerItem(scrapy.Item):
 
     pass
 
-
 class CardItem(scrapy.Item):
+    bankName=scrapy.Field()
+
+    type=scrapy.Field()
+
+    cardUrl = scrapy.Field()
+    
+    image=scrapy.Field()
+    
+    typeOfCard=scrapy.Field()
+    
+    nameOfCard=scrapy.Field()
+    
+    information=scrapy.Field()
+    
+    benefits=scrapy.Field()
+
+
+class CardItememi(scrapy.Item):
     bankname = scrapy.Field()
-    cardlink = scrapy.Field()
+    cardurl = scrapy.Field()
     nameOfCard = scrapy.Field()
     typeOfCard = scrapy.Field()
     info = scrapy.Field()
@@ -25,33 +42,6 @@ class CardItem(scrapy.Item):
     image = scrapy.Field()
     tnc = scrapy.Field()
     
-    
-
-class offerItem(scrapy.Item):
-    bankname = scrapy.Field()
-    baseUrl = scrapy.Field()
-    category = scrapy.Field()
-    shopname = scrapy.Field()
-    offertitle = scrapy.Field()
-    validity = scrapy.Field()
-    image = scrapy.Field()
-    offerlink = scrapy.Field() 
-    offerdetails = scrapy.Field()
-    tnc = scrapy.Field()
-    location = scrapy.Field()
-    eligible = scrapy.Field()
-    applylink = scrapy.Field()
-
-# applylink:  //div[@class='product-card__offer']/a/@href
-#       cardoffer:
-#         coffname: //h1[@class='bold']/text()
-#         information: //p[@class='h3 bold']/text()
-#         validity: //div[@class='caption']/h2/text()
-#         cardoffdetails:
-#             offerdesciber: //div[@class='info-card offer-benefits-info main']/h2/text()
-#             offerinfo:  //div[@class='info-card offer-benefits-info main']/div/p/text()
-#             eligible
-
 class CardItemfab(scrapy.Item):
     bankname = scrapy.Field()
     cardurl = scrapy.Field()

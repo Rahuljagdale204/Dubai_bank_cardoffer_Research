@@ -14,12 +14,12 @@ class Bankcard(scrapy.Spider):
             for key, obj in data.items():
                 if obj['baseUrl']:
                     self.logger.info(f"Sending requets for {key}")
-                    yield scrapy.Request(url=obj['baseUrl'],method='GET',callback=self.parse, meta={"xp": obj['xpath'],"bankName": key, "itemPath": obj['nexturl']})
+                    yield scrapy.Request(url=obj['baseUrl'],method='GET',callback=self.parse, meta={"xp": obj['xpaths'],"bankName": key, "itemPath": obj['nexturl']})
 
     def parse(self, response):
 
         nextPath = response.meta["itemPath"]
-        links = response.xpath(nextPath).getall()
+        links = response.s(nextPath).getall()
         name = response.meta["bankName"]
         
         for link in links:
@@ -35,13 +35,13 @@ class Bankcard(scrapy.Spider):
         for key, val in response.meta["xp"].items():
             if val:
                 if key == 'image':
-                    links = response.xpath(val).get()
+                    links = response.s(val).get()
                     card[key] = response.urljoin(links)
                     
                 elif key=='benefits':
                     AllBenifits = []
-                    titleList = response.xpath(val['title']).getall()
-                    DescList = response.xpath(val['desc']).getall()
+                    titleList = response.s(val['title']).getall()
+                    DescList = response.s(val['desc']).getall()
                      
                     for title, Desc in zip(titleList, DescList):
                         AllBenifits.append({
@@ -52,7 +52,7 @@ class Bankcard(scrapy.Spider):
                         AllBenifits
                     )
                 else:
-                    card[key] = self.removehtmllist(response.xpath(val).getall())   
+                    card[key] = self.removehtmllist(response.s(val).getall())   
         yield card
 
     def extract_desc(self, string):

@@ -1,7 +1,7 @@
 import scrapy
 import yaml 
 from yaml import SafeLoader
-from Bank.items import CardItem
+from bankcard.items import CardItem
 import re
 
 class Card(scrapy.Spider):
