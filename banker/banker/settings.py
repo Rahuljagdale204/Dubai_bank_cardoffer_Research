@@ -18,6 +18,26 @@ USER_AGENT = 'Bank Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, li
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
+
+#splash setting
+
+SPLASH_URL = 'http://192.168.1.25:8050'
+
+DOWNLOADER_MIDDLEWARES = {
+    
+    'scrapy_splash.SplashCookiesMiddleware': 723,
+    'scrapy_splash.SplashMiddleware': 725,
+    'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware': 810,
+}
+
+SPIDER_MIDDLEWARES = {
+    'scrapy_splash.SplashDeduplicateArgsMiddleware': 100,
+}
+
+DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
+
+HTTPCACHE_STORAGE = 'scrapy_splash.SplashAwareFSCacheStorage'
+
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 

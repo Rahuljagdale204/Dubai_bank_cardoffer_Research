@@ -1,28 +1,10 @@
-# Define here the models for your scraped items
-#
-# See documentation in:
-# https://docs.scrapy.org/en/latest/topics/items.html
-
 import scrapy
-
 
 class BankerItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
 
-
-'''
-  baseUrl:
-  offerType: 
-  shopname: 
-  category:  
-  validity: 
-  offerlink:  
-  image: 
-'''
-
-    
 class offerItem(scrapy.Item):
     bankname = scrapy.Field()
     baseUrl = scrapy.Field()
@@ -37,3 +19,43 @@ class offerItem(scrapy.Item):
     location = scrapy.Field()
     eligible = scrapy.Field()
     applylink = scrapy.Field()
+
+class CardItem(scrapy.Item):
+    bankName=scrapy.Field()
+    type=scrapy.Field()
+    cardUrl = scrapy.Field()
+    image=scrapy.Field()
+    typeOfCard=scrapy.Field()
+    nameOfCard=scrapy.Field()
+    information=scrapy.Field()
+    benefits=scrapy.Field()
+
+class CardItememi(scrapy.Item):
+    bankname = scrapy.Field()
+    cardurl = scrapy.Field()
+    nameOfCard = scrapy.Field()
+    typeOfCard = scrapy.Field()
+    info = scrapy.Field()
+    benefits = scrapy.Field()
+    image = scrapy.Field()
+    tnc = scrapy.Field()
+    
+class CardItemfab(scrapy.Item):
+    bankname = scrapy.Field()
+    cardurl = scrapy.Field()
+    nameOfCard = scrapy.Field()
+    typeOfCard = scrapy.Field()
+    info = scrapy.Field()
+    benefits = scrapy.Field()
+    image = scrapy.Field()
+    tnc = scrapy.Field()
+    offerlink = scrapy.Field()
+    cardoffer = scrapy.Field()
+    coffname = scrapy.Field()
+    information = scrapy.Field()
+    validity = scrapy.Field()
+    cardoffdetails = scrapy.Field()
+    eligible = scrapy.Field()
+    all_links = scrapy.Field()
+    Atype = scrapy.Field()
+
