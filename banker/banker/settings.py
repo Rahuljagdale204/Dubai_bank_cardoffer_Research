@@ -21,7 +21,7 @@ ROBOTSTXT_OBEY = True
 
 #splash setting
 
-SPLASH_URL = 'http://192.168.1.25:8050'
+SPLASH_URL = 'http://localhost:8050'
 
 DOWNLOADER_MIDDLEWARES = {
     
