@@ -6,7 +6,7 @@ import re
 
 class Card(scrapy.Spider):
     name="cardoffer"
-    path='bankcard/Data/data.yaml'
+    path='banker/data/cardofferxpath.yaml'
 
     def start_requests(self):
         with open(self.path,'r') as f:

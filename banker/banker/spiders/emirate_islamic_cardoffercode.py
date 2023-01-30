@@ -23,7 +23,7 @@ from banker.items import CardItememi
 import re
 class Bankcard(scrapy.Spider):
     name="emibankcard"
-    path = 'data/Emirates_Islamic.yaml.yaml'
+    path = 'banker/data/Emirates_Islamic.yaml'
 
     def start_requests(self):
         with open(self.path, 'r') as f:

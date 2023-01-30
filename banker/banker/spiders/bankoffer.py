@@ -22,7 +22,7 @@ class Bankoffer(scrapy.Spider):
 
     name="offer"
 
-    path = 'data/offerxpath.yaml.yaml'
+    path = 'banker/data/offerxpath.yaml'
     def start_requests(self):
         with open(self.path, 'r') as f:
             data = yaml.load(f, Loader=SafeLoader)

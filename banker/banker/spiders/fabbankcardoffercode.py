@@ -10,7 +10,7 @@ import re
 
 class Bankcard(scrapy.Spider):
     name="fabbankcard"
-    path = 'bankcard/Data/fabbank.yaml'
+    path = 'banker/data/fabbank.yaml'
 
     def start_requests(self):
         with open(self.path, 'r') as f:
