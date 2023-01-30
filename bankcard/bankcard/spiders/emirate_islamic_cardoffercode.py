@@ -19,16 +19,10 @@
 import scrapy
 import yaml
 from yaml.loader import SafeLoader
-from bankcard.items import CardItem
-
+from bankcard.items import CardItemfab
 import re
-
-
 class Bankcard(scrapy.Spider):
-
     name="cardtest2"
-    # start_urls = ["https://www.cbd.ae/personal/bank/cards"]
-
     path = '/home/rahul/Downloads/Intership/Dubai_bank_cardoffer_Research/bankcard/bankcard/Data/testfile.yaml'
 
     def start_requests(self):
@@ -39,18 +33,12 @@ class Bankcard(scrapy.Spider):
                     self.logger.info(f"Sending requets for {key}")
                     yield scrapy.Request(url=obj['baseUrl'],method='GET',callback=self.parse, meta={"xp": obj['xpath'],"bankName": key, "itemPath": obj['xpath']['nameOfCard']})
 
-    
-
     def parse(self, response):
-
         nextPath = response.meta["itemPath"]
         cardnumber = response.xpath(nextPath).getall()
         name = response.meta["bankName"]
-        
         for i in range(len(cardnumber)):
-            card = CardItem()
-            
-            # card['cardlink'] = response.meta['burl']
+            card = CardItemfab()  
             for key, val in response.meta["xp"].items():
                 if val:
                     card['bankname'] = name
@@ -59,43 +47,24 @@ class Bankcard(scrapy.Spider):
                         card[key] = response.urljoin(links[i])
                         
                     elif key=='benefits':
-                        pass
-                    
-                        
+                        pass         
                     elif key=='cardurl':
                         links = response.xpath(val).getall()
                         cUrl= response.urljoin(links[i])
-                        card['cardlink'] = cUrl
+                        card[key] = cUrl
                         yield scrapy.Request(
                             url=cUrl,method='GET',
                             callback=self.parse_items, meta={'maincard':card, 'xp':response.meta['xp']})
-
                     else:
                         value2 = response.xpath(val).getall()
                         card[key] = self.extract_desc(value2[i])
 
             yield card
 
-  # baseUrl:  
-  # cardurl: 
-  # xpath:
-  #   container:
-  #   image: 
-  #   typeOfCard: 
-  #   nameOfCard:
-  #   info:
-  #   benefits: 
-  #     title:  
-  #     desc
-
-    def parse_items(self, response):
-        
-        
-        card2 = response.meta['maincard']
-        
+    def parse_items(self, response):     
+        card2 = response.meta['maincard']     
         for key, val in response.meta["xp"].items():
-            if val:
-                    
+            if val:              
                 if key=='benefits':
                     AllBenifits = []
                     titleList = response.xpath(val['title']).getall()
@@ -105,18 +74,19 @@ class Bankcard(scrapy.Spider):
                         AllBenifits.append({
                             "title":(title),
                             "Desc":self.extract_desc(Desc)
-                        })
-                        
+                        })             
                     card2[key]=(
                         AllBenifits
                     )
-                    
+                elif(key=='applylink'):
+                    links = response.xpath(val).getall()
+                    for curl in links:
+                        yield scrapy.Request(
+                            url=curl,method='GET',
+                            callback=self.parse_items, meta={'maincard':card2, 'cardoffer':response.meta['xp']})
                 else:
                     card2[key] = self.extract_desc(response.xpath(val).getall())
-                
         yield card2
-
-    
 
     def extract_desc(self, string):
         string = string.replace('\r', '').replace('\n','')

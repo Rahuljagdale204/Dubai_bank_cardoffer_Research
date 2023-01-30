@@ -41,3 +41,32 @@ class offerItem(scrapy.Item):
     location = scrapy.Field()
     eligible = scrapy.Field()
     applylink = scrapy.Field()
+
+# applylink:  //div[@class='product-card__offer']/a/@href
+#       cardoffer:
+#         coffname: //h1[@class='bold']/text()
+#         information: //p[@class='h3 bold']/text()
+#         validity: //div[@class='caption']/h2/text()
+#         cardoffdetails:
+#             offerdesciber: //div[@class='info-card offer-benefits-info main']/h2/text()
+#             offerinfo:  //div[@class='info-card offer-benefits-info main']/div/p/text()
+#             eligible
+
+class CardItemfab(scrapy.Item):
+    bankname = scrapy.Field()
+    cardurl = scrapy.Field()
+    nameOfCard = scrapy.Field()
+    typeOfCard = scrapy.Field()
+    info = scrapy.Field()
+    benefits = scrapy.Field()
+    image = scrapy.Field()
+    tnc = scrapy.Field()
+    offerlink = scrapy.Field()
+    cardoffer = scrapy.Field()
+    coffname = scrapy.Field()
+    information = scrapy.Field()
+    validity = scrapy.Field()
+    cardoffdetails = scrapy.Field()
+    eligible = scrapy.Field()
+    all_links = scrapy.Field()
+    Atype = scrapy.Field()

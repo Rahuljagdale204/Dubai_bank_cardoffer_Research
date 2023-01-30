@@ -1,0 +1,26 @@
+
+#path through the bank cards
+
+First Abu Dhabi Bank:
+  baseUrl:  https://www.bankfab.com/en-ae/personal/cards
+  xpath:
+    # container:  //div[@class='card-clickable product-card multi-column flat']
+    image:  //div[@class='product-card__image']/img/@src
+    typeOfCard: 
+    nameOfCard: //div[@class='product-card__inner ']/h3/text()
+    info: //div[@class='product-card__contents']/div/ul
+    cardurl: //div[@class='product-card__contents']/div/div/div/a[2]/@href
+    benefits:
+      title: //div[@class='col-md-12 col-lg-8']/div/h3/text()
+      desc: //div[@class='col-md-12 col-lg-8']/div/h3/../div/ul
+    cardoffer:
+      offerlink:  //div[@class='product-card__offer']/a/@href
+      cardoffdetails:
+          offerdesciber: //div[@class='info-card offer-benefits-info main']/h2/text()
+          offerinfo:  //div[@class='info-card offer-benefits-info main']/div
+      coffname: //h1[@class='bold']/text()
+      information: //p[@class='h3 bold']/text()
+      validity: //div[@class='caption']/h2/text()
+      eligible: //section[@class='floating-box js-sticky js-sticky-mobile-bottom js-sticky-nodesktop']/h3/text()
+      
+          

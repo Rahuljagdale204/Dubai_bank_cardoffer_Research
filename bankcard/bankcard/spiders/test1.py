@@ -2,15 +2,10 @@ import scrapy
 import yaml
 from yaml.loader import SafeLoader
 from bankcard.items import CardItem
-
 import re
 
-
 class Bankcard(scrapy.Spider):
-
     name="cardtest"
-    # start_urls = ["https://www.cbd.ae/personal/bank/cards"]
-
     path = '/home/rahul/Downloads/Intership/Dubai_bank_cardoffer_Research/bankcard/bankcard/Data/testfile.yaml'
 
     def start_requests(self):
@@ -20,8 +15,6 @@ class Bankcard(scrapy.Spider):
                 if obj['baseUrl']:
                     self.logger.info(f"Sending requets for {key}")
                     yield scrapy.Request(url=obj['baseUrl'],method='GET',callback=self.parse, meta={"xp": obj['xpath'],"bankName": key, "itemPath": obj['nexturl']})
-
-    
 
     def parse(self, response):
 
@@ -35,22 +28,7 @@ class Bankcard(scrapy.Spider):
             yield scrapy.Request(
                 url=cUrl,method='GET',
                 callback=self.parse_items, meta={'bankName':name, 'burl':cUrl, 'xp':response.meta['xp']})
-
-  # baseUrl:  
-  # nexturl: 
-  # xpath:
-  #   container:
-  #   image: 
-  #   typeOfCard: 
-  #   nameOfCard:
-  #   info:
-  #   benefits: 
-  #     title:  
-  #     desc
-
-    def parse_items(self, response):
-        
-        
+    def parse_items(self, response):    
         card = CardItem()
         card['bankname'] = response.meta['bankName']
         card['cardlink'] = response.meta['burl']
@@ -69,20 +47,13 @@ class Bankcard(scrapy.Spider):
                         AllBenifits.append({
                             "title":(title),
                             "Desc":self.extract_desc(Desc)
-                        })
-                        
+                        })     
                     card[key]=(
                         AllBenifits
                     )
-                    
-                # elif key=='nameOfCard':
-                    # card[key] = response.xpath(val).getall()
                 else:
-                    card[key] = self.removehtmllist(response.xpath(val).getall())
-                
+                    card[key] = self.removehtmllist(response.xpath(val).getall())   
         yield card
-
-    
 
     def extract_desc(self, string):
         string = string.replace('\r', '').replace('\n','')

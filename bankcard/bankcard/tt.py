@@ -14,12 +14,9 @@ def tt():
 
     with open(path, 'r') as f:
         data = yaml.load(f,Loader=SafeLoader)
-
-        for key, val in data.items():
-            if val['baseUrl']:
-                print(val['baseUrl'])
-   
         
+        for key, val in data.items():
+            pass
 
             
 

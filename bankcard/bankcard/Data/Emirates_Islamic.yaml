@@ -1,0 +1,12 @@
+Emirates Islamic:
+    baseUrl: https://www.emiratesislamic.ae/eng/personal-banking/cards/credit-cards/
+    xpath:
+        container:
+        image:  //div[@class='card-deck']/div/a/img/@src
+        typeOfCard:
+        nameOfCard: //div[@class='card-deck']/div/a/../div[1]/h3/a/text()
+        info: //div[@class='card-deck']/div/a/../div[1]/div/ul
+        cardurl: //div[@class='card-deck']/div/a/@href
+        benefits:
+        title: //div[@class="benefit-text"]/h3/text() | //div[@class='card']/h3/text()
+        desc: //div[@class="benefit-text"]/p/text() | //div[@class='card']/h3/..
