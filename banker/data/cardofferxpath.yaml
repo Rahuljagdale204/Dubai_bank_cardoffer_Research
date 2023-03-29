@@ -1,11 +1,10 @@
-
 Commercial Bank of Dubai:
   baseUrl:  https://www.cbd.ae/personal/bank/cards
   cardUrl:  //a[@class='button orange wide boxListCta']/@href
   xpaths:
     container:
     image: //div[@class='banner']/img/@src
-    typeOfCard: 
+    typeOfCard: //li[@class='rsmItem sfBreadcrumbNavigation'][3]/a/text()
     nameOfCard: //div[@class='box']/h1/text()
     information: //div[@id='cph_main_cph_main_C062_Col00']/div/h3/../ul | //div[@id = 'cph_main_cph_main_C024_Col00']/div/ul | //div[@id = 'cph_main_cph_main_C024_Col00']/div/b/b/ul  | //h3[@id='features-benefit']/../ul
     benefits: 
@@ -14,11 +13,11 @@ Commercial Bank of Dubai:
 
 Dubai Islamic Bank:
   baseUrl: https://www.dib.ae/personal/cards?cardType=All-Cards&income=Any&cardBenefit=All-Benefits&visible=6
-  cardUrl: //div[@class='card-title-information']/a/@href
+  cardUrl: //div[@class='card-title-info']/a/@href
   xpaths:
     container:
     image:  //img[@class='active spotlight-media img-circle']/@src
-    typeOfCard:
+    typeOfCard: //div[@class='card-type-info']/text()
     nameOfCard: //h1[@class='col-side-heading-1']/text/text()
     information: //div[@class='spotlight-contents']/p/text()
     benefits:
@@ -30,10 +29,10 @@ First Abu Dhabi Bank:
   cardUrl: //a[@class="icon-link btn-height no-icon"]/@href
   xpaths:
     container:
-    image: 
-    typeOfCard:
+    image: //div[@class='col-lg-4']/div/div/em/img/@src
+    typeOfCard: #credit card to all
     nameOfCard: //*[@id="main-body-content"]/div[1]/div/div/div/div[1]/div/div/h1/text()
-    information: /html/body/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div/div/div/div/div/p/text()
+    information: //div[@class='caption']/ul
     benefits:
       title: //div[@class="col-md-12 col-lg-8"]/div/h3
       description: //div[@class="offer-benefits-info__content"]/ul
@@ -44,8 +43,8 @@ Bank Al Falah Limited:
   cardUrl: //div[@class="wpb_wrapper"]/p/a/@href
   xpaths:
     container:
-    image: 
-    typeOfCard: 
+    image: //div[@class='col-md-4 no-padding sliderVertical']/img[1]/@src
+    typeOfCard: #credit card to all
     nameOfCard: //div[@class="col-sm-8 contentArea"]/h3/text()
     information: //div[@class="wpb_wrapper"]/p/text()
     benefits:
@@ -58,7 +57,7 @@ Emirates Islamic :
   cardUrl: //div[@class="card-footer"]/a/@href
   xpaths:
     container:
-    image: 
+    image: //div[@class='w-100 hero-image-container shadow']/img/@src
     typeOfCard: 
     nameOfCard: //*[@id="personalbanking"]/div[13]/div[1]/div/div/div/div/h1
     information: //div[@class="container features-block"]
@@ -72,38 +71,26 @@ HSBC Bank Middle East Limited :
   xpaths:
     container:
     image: //*[@id="pp_tools_image_3"]/@src
-    typeOfCard: 
-    nameOfCard: //*[@id="pp_intro_hero_no_image_1"]/h1
+    typeOfCard: //ol[@class='breadcrumbs-list O-SMARTSPCGEN-DEV']/li[2]/div/a/span/text()
+    nameOfCard: //span[@class='A-TYP16B-RW-ALL']/span/text()
     information: //div[@class="M-CONTMAST-RW-RBWM O-SMARTSPCGEN-DEV rich-text"]
     benefits:
-      title: //h3[@class="heading A-TYP22L-RW-ALL remove-bottom-space"]
-      description: //div[@class="A-PAR16R-RW-ALL-WRAPPER"]
-
-# HSBC Bank Middle East Limited :
-#   baseUrl: 
-#   cardUrl:
-#   xpaths:
-#     container:
-#     image: 
-#     typeOfCard: 
-#     nameOfCard: 
-#     information: 
-#     benefits:
-#       title: 
-#       description: 
-
+      title: //h3[@class="heading A-TYP22L-RW-ALL remove-bottom-space"] | //h3[@class='heading A-TYP22L-RW-ALL remove-bottom-space']/table/tbody/tr/td/text()
+      description: //div[@class="A-PAR16R-RW-ALL-WRAPPER"] 
+ 
 Abu Dhabi Islamic Bank :
   baseUrl: https://www.adib.ae/en/personal/cards
   cardUrl: //a[@class="btn btn-outline-primary gtagADIBCardsCardLearnMoreClick"]/@href
   xpaths:
     container:
-    image: //*[@id="ctl00_ctl57_g_2b2301c5_38bf_4d65_8664_aa9045234fa4_imageHeader"]/@src
-    typeOfCard: 
-    nameOfCard: //*[@id="ctl00_ctl57_g_2b2301c5_38bf_4d65_8664_aa9045234fa4_lblheader"]
+    image: //div[@class='container container-fixed py-8p py-md-5p']/div/div/img/@src
+    typeOfCard: //div[@class='breadcrumb container container-fixed']/a[4]/text()
+    nameOfCard: //div[@class='col-md-6 order-md-1']/h1/text() 
     information: //div[@class="P_tag_A"]
     benefits:
-      title: 
-      description: //div[@class="col-lg-3 col-md-6"]/div/p
+      title: //h2[@class='font-weight-extra-light mb-3']/text()
+      description: //h2[@class='font-weight-extra-light mb-3']/following-sibling::p
+
 
 Al Hilal Bank:
   baseUrl: https://www.alhilalbank.ae/en/personal/cards/
@@ -123,7 +110,7 @@ National Bank of Fujairah:
   cardUrl: //a[@class="btn btn-primary"]/@href
   xpaths:
     container:
-    image: 
+    image: //div[@class='content-hero-image']/picture/img/@srcset
     typeOfCard: 
     nameOfCard: //*[@id="content-section-wrapper"]/section[1]/h1
     information: //div[@class="intro-text"]
@@ -133,16 +120,18 @@ National Bank of Fujairah:
 
 National Bank of Ras Al-Khaimah PJSC (RAKBANK):
   baseUrl: https://rakbank.ae/wps/portal/retail-banking/cards/
-  cardUrl: //div[@class='block-cont-innr']/div[@class='links']/a[1]/@href
+  cardUrl: //div[@class='links']/a[1]/@href
   xpaths:
     container:
-    image: 
+    image: //img[@class='banner-bg']/@src
     typeOfCard: 
-    nameOfCard: //*[@id="layoutContainers"]/div[2]/div/div/section/div[2]/section[1]/div[3]/div/div/div[1]/div[1]/h1
-    information: //*[@id="layoutContainers"]/div[2]/div/div/section/div[2]/section[1]/div[3]/div/div/div[1]/div[1]/p
-    benefits:
-      title: //h2[@class="panel-title heading-line"]
-      description: //div[@class="panel-body"]
+    nameOfCard: //div[@class='breadcrumbs-block-inner']/ul/li[3]
+    information: //div[@class='rightr-top-contant']/h1/text()/../../p/text() | //div[@class='panel-heading']/h2/text()/../../../div[2] | //div[@class='welcome-block']/p/text()
+    benefits:  
+      title: //h2[@class='panel-title heading-line']
+      description: //h2[@class='panel-title heading-line']/../../div[2]
+
+
     
 Sharjah Islamic Bank:
   baseUrl: 
@@ -162,13 +151,13 @@ National Bank of Umm Al-Quwain :
   cardUrl: //a[@class="card-link"]/@href
   xpaths:
     container:
-    image: 
+    image: //div[@id='Content_C037_Col00']/img/@src
     typeOfCard: 
     nameOfCard: //*[@id="Content_C068_Col00"]/div/div/h3
     information: //*[@id="Content_C068_Col00"]/div/div/p
     benefits:
-      title: 
-      description: //div[@class="sf_colsIn col-md-6"]/div/div/ul/li
+      title: //div[@class="sf_colsIn col-md-6"]/div/div/h3/text()
+      description: //div[@class="sf_colsIn col-md-6"]/div/div/ul
 
 
 National Bank of Bahrain:
@@ -177,12 +166,12 @@ National Bank of Bahrain:
   xpaths:
     container:
     image: //*[@id="block-nbb-content"]/article/div/div/div[2]/div[2]/div/div/div/img/@src
-    typeOfCard: 
+    typeOfCard: //ul[@class='breadcrumb-navs']/li[4]/a/text()
     nameOfCard: //*[@id="block-nbb-content"]/article/div/div/div[1]/div/div/h2/span
     information: //*[@id="block-nbb-content"]/article/div/div/div[3]/div/div/div/div[1]/div/p
     benefits:
-      title: 
-      description: //div[@class="features-list-wrap"]/ul/li
+      title: //h2[@class='head-type2 mt-5']/text()
+      description: //div[@class="features-list-wrap"]/ul
 
 Arab Bank :
   baseUrl: https://www.arabbank.jo/mainmenu/home/Consumer-Banking/cards/card-type
@@ -191,51 +180,37 @@ Arab Bank :
     container:
     image: //*[@id="insidePageContent_C003_Col00"]/div/div[1]/img/@src
     typeOfCard: 
-    nameOfCard: //*[@id="arabBankPageContent"]/div[2]/div/div[1]/div/h1
-    information: //*[@id="insidePageContent_C003_Col00"]/div/div[2]/div/ul[1]
+    nameOfCard: //div[@class='breadcrumb']/h1/text()
+    information: //div[@class='editorContent']/div/ul | //div[@class='editorContent']/p[2]/text()
     benefits:
-      title: 
-      description: //*[@id="insidePageContent_C003_Col00"]/div/div[2]/div/ul[2]/li
+      title: //*[@id="insidePageContent_C003_Col00"]/div/div[2]/p/strong/text()
+      description: //*[@id="insidePageContent_C003_Col00"]/div/div[2]/p/strong/../following-sibling::ul
 
 Al Khaliji :
   baseUrl: https://yallacompare.com/qat/en/credit-cards/
   cardUrl: //a[@class="srpTable___trackClicks"]/@href
   xpaths:
     container:
-    image: 
-    typeOfCard: 
+    image: //td[@class='productPageFeatures___cell__provider']/a/img/@src
+    typeOfCard: //div[@class='breadcrumbs']/div/a[2]/text()
     nameOfCard: //*[@id="body"]/main/div[2]/table/tbody/tr/td[1]/text()
     information: //*[@id="body"]/main/div[4]/div/div[1]/div[1]/text()[1]
     benefits:
-      title: 
-      description: //div[@class="productDetails__section"]/ul/li
+      title: //div[@class='productDetails__section']/b/text()
+      description: //div[@class='productDetails__section']/ul
 
 Standard Chartered Bank :
   baseUrl: https://www.sc.com/ae/credit-cards/
   cardUrl: //a[@class="c-button is-theme-hollow-darkgray"]/@href
   xpaths:
     container:
-    image: 
-    typeOfCard: 
-    nameOfCard: //*[@id="sc-lb-module-masthead-bonussaver"]/div[2]/div/div/ol/li[2]/h1/span
-    information: 
+    image: //div[@class='sc-bnr__bg-wrapper sc-bnr__bg-wrapper--no-overlay']/picture/source[1]/@srcset
+    typeOfCard: //ol[@class='sc-bnr-breadcrumb']/li/a[1]/span/text()
+    nameOfCard: //ol[@class='sc-bnr-breadcrumb']/li[2]/h1/span/text()
+    information: //div[@class='content-description']/p/text()
     benefits:
       title: //div[@class="question active"]/h3
       description: //div[@class="answer"]
-
-
-# HSBC Bank Middle East Limited :
-#   baseUrl: 
-#   cardUrl:
-#   xpaths:
-#     container:
-#     image: 
-#     typeOfCard: 
-#     nameOfCard: 
-#     information: 
-#     benefits:
-#       title: 
-#       description: 
 
 
 National Bank of Kuwait :
@@ -243,8 +218,8 @@ National Bank of Kuwait :
   cardUrl: //a[@class="learn-more"]/@href
   xpaths:
     container:
-    image: 
-    typeOfCard: 
+    image: //div[@class='owl-bg-img']/@style
+    typeOfCard: //ol[@class='breadcrumb']/li[4]/a[1]/span/text()
     nameOfCard: //*[@id="pageWrapper"]/section[2]/h1
     information: //*[@id="readme"]/div/div/div[1]/div[1]/p/text()
     benefits:
@@ -256,75 +231,78 @@ Industrial & Commercial Bank of China :
   cardUrl: //a[@class="link3"]/@href
   xpaths:
     container:
-    image: 
+    image: //div[@align='center']/p/img/@src | //td[@width='250']/img[1]/@src
     typeOfCard: 
-    nameOfCard: //*[@id="FreeDefinePlaceholderControl1"]/div/div/div/div[2]/table/tbody/tr/td[2]/h1
-    information: 
+    nameOfCard: //*[@id="FreeDefinePlaceholderControl1"]/div/div/div/div[2]/table/tbody/tr/td[2]/h1  |  //table[@class='ke-zeroborder']/tbody[1]/tr/td[1]/h1[1]/text() | //table[@class='ke-zeroborder']/tbody[1]/tr/td[2]/h1[1]/text() | //div[@class='col2Style']/h1/text()
+    information: //p[@data-font-size='14']/text() | //table[@class='ke-zeroborder']/tbody[1]/tr/td[1]/h1[1]/../p/text() | //table[@class='ke-zeroborder']/tbody[1]/tr/td/p/text() | //td[@class='center_title']/p/text()
     benefits:
       title: //table/tbody/tr/td[2]/h2
-      description: //table/tbody/tr/td[2]/p  #Maping has not done properly
+      description: //table/tbody/tr/td[2]/p  
+
+
 
 Barclays Bank PLC:
   baseUrl: https://www.barclays.co.uk/credit-cards/
   cardUrl: //div[5]/div/div/a/@href
   xpaths:
     container:
-    image: 
-    typeOfCard: 
-    nameOfCard: //*[@id="main-content"]/section/div/div[2]/div/div/div/div/div/div/div[1]/div/h1
+    image: //div[@class='bottom-image']/div/picture/img/@src
+    typeOfCard: //ul[@class="breadcrumb"]/li[1]/a/span/text()
+    nameOfCard: //h1[@class='h2 jumbo-title']/text()  | //h2[@class='h2 jumbo-title']/text()
     information: //*[@id="main-content"]/section/div/div[2]/div/div/div/div/div/div/div[3]/div[2]/p
     benefits:
-      title: 
-      description: //div[@class="aem-rte"]/ul/li
+      title: //div[@class='aem-rte ']/p/strong/text()
+      description: 
 
 Bank of China Limited:
   baseUrl: https://www.boc.cn/en/bcservice/bc1/
-  cardUrl: //a[@class="fsm"]/@href
+  cardUrl: //a[@class='fsm']/@href
   xpaths:
     container:
-    image: /html/body/table[2]/tbody/tr/td[2]/table[3]/tbody/tr/td/p[2]/strong/img/@src
-    typeOfCard: 
-    nameOfCard: /html/body/table[2]/tbody/tr/td[2]/table[2]/tbody/tr[1]/td/h1
-    information: /html/body/table[2]/tbody/tr/td[2]/table[3]/tbody/tr/td/p[3]/text()
+    image: //p[@align='center']/a/img/@src
+    typeOfCard: //td[@class='itmen']/h4/a/text()
+    nameOfCard: //td[@align='center']/h1/text()
+    information: //table[@align='center']/tbody/tr/td/p[3]/text() | //div[@class='TRS_Editor']/p/text() | //p[@align='center']/../p[4] | //p[@align='center']/../p[5]/text() | //p[@align='center']/../p[6]/text() | //table[@align='center']/tbody/tr/td/p[2]/text() |  //table[@align='center']/tbody/tr/td/li/p[2]/text()
     benefits:
-      title: 
+      title:  
       description: 
+
 
 Gulf International Bank :
   baseUrl: https://www.e-gulfbank.com/en/personal/cards/credit-cards/
   cardUrl: //div[@class="teaser-content with-compare"]/a[@class="btn btn-more"]/@href
   xpaths:
     container:
-    image: //*[@id="section-260606"]/div/div/div[2]/div/img/@src
-    typeOfCard: 
-    nameOfCard: //*[@id="gbMain"]/div[1]/div/div/nav/ul/li[5]/h1
-    information: 
+    image: //div[@class='image-col-6']/img/@src
+    typeOfCard: //ul[@class='breadcrumb']/li[4]/a/text()
+    nameOfCard: //ul[@class='breadcrumb']/li/h1/text()
+    information: //section[@class='section-wrapper page-article']/div/div/div/ul/li/p/text()
     benefits:
-      title: //div[@class="accd-header"]/h3
+      title:  //div[@class="accd-header"]/h3
       description: //div[@class="accd-body"]
 
 MCB Bank Limited :
-  baseUrl: https://www.mcb-bank.com/personal/cards/credit-cards
+  baseUrl: https://www.mcb-bank.com/personal/cards/credit-cards 
   cardUrl: //div[@class="desc"]/a[2]/@href
   xpaths:
     container:
-    image: //*[@id="eid_7695"]/div/article/div[1]/img/@src
+    image: //div[@class='image left']/img/@src
     typeOfCard: 
-    nameOfCard: //*[@id="eid_7695"]/div/article/div[2]/div[1]/header/h2
-    information: 
+    nameOfCard: //div[@class='title']/header/h2/text()
+    information: //div[@class='cblock plc-ignore y1columns columns_2']/div
     benefits:
       title: 
-      description: //div[@class="text"]/ul/li
+      description: 
 
 Intesa Sanpaolo S.P.A :
   baseUrl: https://www.intesasanpaolobank.si/en/prebivalstvo/placilne-kartice.html
   cardUrl: //div[@class="com9__buttonCover"]/a/@href
   xpaths:
     container:
-    image: //*[@id="data-scrollmagic-scene"]/div/div/div[1]/div/div/img/@src
-    typeOfCard: 
-    nameOfCard: //*[@id="mainContainer"]/div/div[1]/div/div[3]/div/div[1]/h1/strong
-    information: //div[@class="tbl1__textWrapper"]/ul/li
+    image: //div[@class='tbl1__imageWrapper']/img/@src
+    typeOfCard: //ul[@class='siteBreadcrumb__list']/li[2]/a/text()
+    nameOfCard: //ul[@class='siteBreadcrumb__list']/li[3]/text()
+    information: //div[@class='hero__description js-hero-description']/text()
     benefits:
-      title: 
-      description: //div[@class="com8__cmsTextWrpper"]/ul/li
+      title: //div[@class='tbl1__title']/text()
+      description: //div[@class='tbl1__title']/../ul
